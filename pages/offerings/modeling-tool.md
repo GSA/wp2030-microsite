@@ -4,7 +4,14 @@ title: Workplace Investment and Feasibility Modeling Tool
 tagline: Model your workplace using our tool
 description: Forecast your office, desk, and space needs with our workplace investment and feasibility modeling (WIFM) tool
 listLinkText: Read more about the WIFM tool
-permalink: /offerings/modeling-tool/
+pagination:
+  data: slugs
+  alias: slug
+  size: 1
+slugs:
+  - modeling-tool
+  - wifm
+permalink: /offerings/{{ slug }}/
 tags: offerings
 ---
 
