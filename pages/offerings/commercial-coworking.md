@@ -10,6 +10,8 @@ tags: offerings
 
 # Commercial Coworking
 
+{% banner "assets/img/offering-commercial-coworking-top.jpg", "Photograph of an open office space, with several individuals sitting or standing at various workspaces" %}
+
 ## Provide federal employees with a short-term space solution
 
 To keep up with rapidly changing federal workplace needs, we are tapping into the private sector’s business model for coworking spaces. Federal employees can now also take advantage of shared workspaces in commercial settings to meet your agency’s short-term space needs.
@@ -44,6 +46,31 @@ Workspace options include:
 * Conference space (incidental use only).
 
 [Contact our team](#get-in-touch) to discuss commercial coworking locations in your area and how you can set up an on-site visit.
+
+{% miniGallery %}
+  {% miniGalleryItem
+    "assets/img/offering-commercial-coworking-expansive.jpg",
+    "Photo of an empty open office" %}
+      <strong>Dupont Circle at Expansive</strong>
+      <br>1201 Connecticut Ave NW
+      <br>Washington, DC 20036
+  {% endminiGalleryItem %}
+  {% miniGalleryItem
+    "assets/img/offering-commercial-coworking-wework.jpg",
+    "Photo of an open office with people sitting on armchairs and a bench" %}
+    <strong>Wells Fargo Center at WeWork</strong>
+    <br>1700 Lincoln St
+    <br>Denver, CO 80203
+  {% endminiGalleryItem %}
+  {% miniGalleryItem
+    "assets/img/offering-commercial-coworking-theyard.jpg",
+    "Photo of an open office with a long shared table, and two people working" %}
+    <strong>Eastern Market at The Yard</strong>
+    <br>700 Pennsylvania Ave SE
+    <br>Washington, DC 20003
+  {% endminiGalleryItem %}
+{% endminiGallery %}
+
 
 ## Commercial coworking space contract
 
