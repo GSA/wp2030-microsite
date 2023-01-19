@@ -1,0 +1,18 @@
+---
+layout: layouts/base
+breadcrumb:
+  parent:
+    text: Insights
+    href: /insights/
+---
+
+<div class="grid-container">
+  <div class="usa-in-page-nav-container">
+    <aside class="usa-in-page-nav" data-title-text="{{ title }}"></aside>
+    <main id="main-content">
+      <div class="usa-prose">
+        {{ content | safe }}
+      </div>
+    </main>
+  </div>
+</div>
