@@ -4,7 +4,7 @@ title: USAID + GSA &#58; Consolidating space to drive cost avoidance
 date: 2023-01-23
 author: 
 position:
-image: assets/img/insights-USAID-GSA.svg
+image: assets/img/insights-USAID-GSA.jpg
 sortorder: 4
 permalink: /insights/usaid-gsa-consolidating-space-to-drive-cost-avoidance/
 tags: insights

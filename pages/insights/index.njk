@@ -22,7 +22,7 @@ hero:
       <div class="grid-row grid-gap">
       {% for insight in collections.insights | sort(attribute='sortorder') %}
         <div class="tablet:grid-col-4">
-          <div class="flex-column">
+          <div class="flex-column width-mobile">
           <a class="usa-link text-no-underline text-black" href="{{ insight.url }}">
             <img
             src="{{ insight.data.image }}"
@@ -30,7 +30,7 @@ hero:
             />
           </a>
           </div>
-          <div class="flex-column font-body-md text-semibold">
+          <div class="flex-column font-body-md text-semibold margin-y-1 ">
             <a class="usa-link text-no-underline" href="{{ insight.url }}"> 
               <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
             </a>

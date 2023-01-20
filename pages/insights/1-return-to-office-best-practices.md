@@ -4,7 +4,7 @@ title: Return to office best practices
 date: 2023-01-23
 author: Nina Albert
 position: PBS Commissioner
-image: assets/img/insights-best-practice.svg
+image: assets/img/insights-best-practice.jpg
 sortorder: 1
 permalink: /insights/return-to-office-best-practice/
 tags: insights
