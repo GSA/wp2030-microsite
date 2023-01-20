@@ -32,12 +32,15 @@ hero:
           </div>
           <div class="flex-column font-body-md text-semibold">
             <a class="usa-link text-no-underline" href="{{ insight.url }}"> 
-              <span class="text-bold">{{ insight.data.title | safe}}<span>
+              <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
             </a>
           </div>
 
           <div class="flex-column text-base font-sans-2xs">
-            {{ insight.data.date }}  | {{ insight.data.author }}
+            {{ insight.data.date }}
+            {%- if insight.data.author %}
+              | {{ insight.data.author }}
+            {%- endif %}
           </div>
         
         </div>

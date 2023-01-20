@@ -11,7 +11,12 @@ breadcrumb:
     <main id="main-content">
       <h2 class="title">{{title | safe }}</h2>
         <span class="text-semibold font-serif-2xs"> 
-        By {{ author}}{%  if position  %}, {{position}}{% endif %}
+        {%- if author %}
+        By {{ author}}
+        {%endif %}
+        {%- if position  %}
+        , {{position}}
+        {%- endif %}
         </span>
         <div class="text-base">
           <div class="margin-y-1 font-sans-3xs">
