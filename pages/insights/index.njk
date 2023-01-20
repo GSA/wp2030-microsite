@@ -1,0 +1,54 @@
+---
+layout: layouts/base
+title: Insights
+permalink: /insights/
+eleventyNavigation:
+  key: Insights
+  order: 2
+hero:
+  image: assets/img/hero-insights.jpg
+  heading: INSIGHTS
+---
+
+<main id="main-content">
+
+  <div class="grid-container">
+    <p class="font-body-lg text-semibold">
+      We’re keeping up with trending information about the future of federal work, with an eye toward the ways federal agencies manage space and perform hybrid work. Interested in seeing information about a specific topic? 
+      Let us know by emailing us at <a href="mailto:workplace@gsa.gov">workplace@gsa.gov.</a></p>
+
+
+    <div class="grid-container padding-top-205">
+      <div class="grid-row grid-gap">
+      {% for insight in collections.insights | sort(attribute='sortorder') %}
+        <div class="tablet:grid-col-4">
+          <div class="flex-column">
+          <a class="usa-link text-no-underline text-black" href="{{ insight.url }}">
+            <img
+            src="{{ insight.data.image }}"
+            aria-hidden="true"
+            />
+          </a>
+          </div>
+          <div class="flex-column font-body-md text-semibold">
+            <a class="usa-link text-no-underline" href="{{ insight.url }}"> 
+              <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
+            </a>
+          </div>
+
+          <div class="flex-column text-base font-sans-2xs">
+            {{ insight.data.date }}
+            {%- if insight.data.author %}
+              | {{ insight.data.author }}
+            {%- endif %}
+          </div>
+        
+        </div>
+      {% endfor %}
+ 
+      </div>
+      
+    </div>
+  </div>
+
+</main>
