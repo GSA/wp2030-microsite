@@ -1,0 +1,38 @@
+---
+layout: layouts/base
+breadcrumb:
+  parent:
+    text: Insights
+    href: /insights/
+---
+
+<div class="grid-container">
+
+    <main id="main-content">
+      <h1 class="title">{{title | safe }}</h1>
+        <span class="text-semibold font-serif-2xs"> 
+        {%- if author %}
+        By {{ author}}
+        {%endif %}
+        {%- if position  %}
+        , {{position}}
+        {%- endif %}
+        </span>
+        <div class="text-base">
+          <div class="margin-y-1 font-sans-3xs">
+             {{ date }}
+          </div>
+        </div>
+
+      <img
+          src="{{image}}"
+          aria-hidden="true"
+          width="50%"
+        /> 
+        
+      <div class="usa-prose">
+        {{ content | safe }}
+      </div>
+    </main>
+
+</div>

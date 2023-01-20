@@ -17,16 +17,16 @@ in the form $setting: value,
   $theme-font-weight-semibold: 600,
 
   // Components
-  $theme-banner-max-width: "desktop-lg",
-  $theme-footer-max-width: "desktop-lg",
-  $theme-header-max-width: "desktop-lg",
+  $theme-banner-max-width: "desktop",
+  $theme-footer-max-width: "desktop",
+  $theme-header-max-width: "desktop",
   $theme-header-min-width: "desktop",
-  $theme-identifier-max-width: "desktop-lg",
-  $theme-site-alert-max-width: "desktop-lg",
+  $theme-identifier-max-width: "desktop",
+  $theme-site-alert-max-width: "desktop",
   $theme-breadcrumb-background-color: "base-lightest",
   $theme-breadcrumb-font-size: "3xs",
 
   // Spacing
-  $theme-grid-container-max-width: "desktop-lg",
-  $theme-site-margins-breakpoint: "desktop-lg",
+  $theme-grid-container-max-width: "desktop",
+  $theme-site-margins-breakpoint: "desktop",
 );
