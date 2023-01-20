@@ -1,0 +1,31 @@
+---
+title: Search
+permalink: /search/
+layout: layouts/page
+---
+
+<h1>Search</h1>
+
+<section aria-label="Search component">
+  <form class="usa-search" role="search" action="{{ page.url }}" method="get">
+    <label class="usa-sr-only" for="search-page-field">Search</label>
+    <input class="usa-input" id="search-page-field" type="search" name="search" />
+    <button class="usa-button" type="submit">
+      <span class="usa-search__submit-text">Search </span
+      ><img
+        src="assets/uswds/img/usa-icons-bg/search--white.svg"
+        class="usa-search__submit-icon"
+        alt="Search"
+      />
+    </button>
+  </form>
+</section>
+
+<div class="margin-y-4">
+  <div id="search-results"></div>
+  <div id="search-no-results" style="display: none;">No results found.</div>
+</div>
+
+<script>var pathPrefix = "{{ pathPrefix }}";</script>
+<script src="/assets/js/elasticlunr.min.js"></script>
+<script src="/assets/js/search.js"></script>

@@ -5,6 +5,8 @@ const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const path = require("path");
 const { DateTime } = require("luxon");
+const elasticlunr = require("elasticlunr");
+const { stripHtml } = require("string-strip-html");
 
 module.exports = function(eleventyConfig) {
   const pathPrefix = path.join(process.env.BASEURL || "/", "workplace");
@@ -40,6 +42,7 @@ module.exports = function(eleventyConfig) {
 
   // Custom filters
   eleventyConfig.addFilter("postDate", dateObj => DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL));
+  eleventyConfig.addFilter("search", searchFilter);
 
   return {
     pathPrefix,
@@ -92,4 +95,33 @@ function miniGalleryItemShortcode(content, imageUrl, imageAlt) {
             <img src="${imageUrl}" alt="${imageAlt}" class="height-full width-full maxh-card" style="object-fit: cover;">
             <div>${content}</div>
           </div>`;
+}
+
+const striptags = require("striptags");
+
+function searchFilter(collection) {
+  const searchIndex = elasticlunr(function () {
+    this.setRef("id");
+    this.addField("title");
+    this.addField("content");
+    this.addField("excerpt");
+  });
+
+  collection.forEach(page => {
+    console.log(page.content)
+
+    const content = striptags(page.content)
+      .replace(/^\s+|\s+$|\s+(?=\s)|/g, "")
+      .replace(/\n|\t|\r/g, " ");
+    const excerpt = content.substring(0, 200).concat("...");
+
+    searchIndex.addDoc({
+      id: page.url,
+      title: page.data.title,
+      content,
+      excerpt
+    });
+  });
+
+  return searchIndex.toJSON();
 }
