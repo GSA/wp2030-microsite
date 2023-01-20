@@ -19,11 +19,11 @@ hero:
 
  
     <div class="grid-container padding-top-205">
-      <div class="grid-row">
-      {% for insight in collections.insights %}
-        <div class="tablet:grid-col">
+      <div class="grid-row grid-gap">
+      {% for insight in collections.insights | sort(attribute='sortorder') %}
+        <div class="tablet:grid-col-4">
           <div class="flex-column">
-          <a class="usa-link text-no-underline" href="{{ insight.url }}">
+          <a class="usa-link text-no-underline text-black" href="{{ insight.url }}">
             <img
             src="{{ insight.data.image }}"
             aria-hidden="true"
@@ -32,7 +32,7 @@ hero:
           </div>
           <div class="flex-column font-body-md text-semibold">
             <a class="usa-link text-no-underline" href="{{ insight.url }}"> 
-              <span class="text-bold">{{ insight.data.title }}<span>
+              <span class="text-bold">{{ insight.data.title | safe}}<span>
             </a>
           </div>
 
