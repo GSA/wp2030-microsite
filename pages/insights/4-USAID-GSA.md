@@ -12,7 +12,7 @@ tags: insights
 ---
 
 
-### Seven disparate spaces in one metro area
+## Seven disparate spaces in one metro area
 
 A decade ago, the U.S. Agency for International Development’s 4,000 headquarters personnel were spread across seven Washington, DC, and Virginia locations in  in leased office spaces, one of which was a warehouse). Beyond the geographic separation, USAID’s flagship space at the Ronald Reagan Building was showing its age and making the wrong first impression. 
 
@@ -20,7 +20,7 @@ A decade ago, the U.S. Agency for International Development’s 4,000 headquarte
 
 While the condition of the office space eased initial buy-in for a renovation, Bennett and his team saw it as an impetus for additional change. “We wanted to get to a two-headquarter solution and improve our utilization of space,” he said. “We wanted to fully modernize our space, to make sure our offices were state-of-the-art — including IT and security. We also put an emphasis on ergonomics and wellness. We wanted to ensure USAID’s offices were modern and relevant for years to come.”
 
-### GSA as a ‘model for change’
+## GSA as a ‘model for change’
 
 USAID officials collaborated with GSA workplace professionals to start the process by touring GSA’s headquarters building and then embarking on a project to pilot new concepts. 
 
@@ -28,7 +28,7 @@ USAID chose to renovate 27,000 square feet on the seventh floor of its Reagan sp
 
 While there was organizational buy-in for USAID to renovate its space, the pilot showed senior leadership how future renovated spaces should function. “Our biggest hurdle was to convince people with 200-square-foot offices and private conference rooms to buy into this vision,” Bennett recalled. “Seeing the open-office pilot helped secure their approval. We have to thank GSA for being that model of change and helping us convince the people that this is the path forward.” 
 
-### Pilot project spurs additional renovation 
+## Pilot project spurs additional renovation 
 
 The pilot was so well received that USAID soon renovated its remaining space on the seventh floor to include a state-of-the-art operations center, sensitive compartmented information facility, and other classified areas with an open plan. 
 
