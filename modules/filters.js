@@ -1,4 +1,6 @@
 const { DateTime } = require("luxon");
+const elasticlunr = require("elasticlunr");
+const striptags = require("striptags");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("postDate", dateObj => DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL));
