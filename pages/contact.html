@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Contact
   order: 5
 hero:
-  image: assets/img/hero-contact.png
+  image: /assets/img/hero-contact.png
   heading: CONTACT
 ---
 
@@ -16,7 +16,7 @@ hero:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" role="img">
-        <use xlink:href="assets/uswds/img/sprite.svg#person"></use>
+        <use xlink:href="{{ '/assets/uswds/img/sprite.svg#person' | url }}"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -28,7 +28,7 @@ hero:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" role="img">
-        <use xlink:href="assets/uswds/img/sprite.svg#mail"></use>
+        <use xlink:href="{{ '/assets/uswds/img/sprite.svg#mail' | url }}"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -39,7 +39,7 @@ hero:
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
       <svg class="usa-icon" aria-hidden="true" role="img">
-        <use xlink:href="assets/uswds/img/sprite.svg#forum"></use>
+        <use xlink:href="{{ '/assets/uswds/img/sprite.svg#forum' | url }}"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
@@ -53,18 +53,18 @@ hero:
 
 <div class="wp-social-icons">
   <div class="wp-social-icon">
-    <img src="assets/uswds/img/usa-icons/facebook.svg" alt="Facebook">
+    <img src="{{ '/assets/uswds/img/usa-icons/facebook.svg' | url }}" alt="Facebook">
   </div>
 
   <div class="wp-social-icon">
-    <img src="assets/uswds/img/usa-icons/twitter.svg" alt="Twitter">
+    <img src="{{ '/assets/uswds/img/usa-icons/twitter.svg' | url }}" alt="Twitter">
   </div>
 
   <div class="wp-social-icon">
-    <img src="assets/uswds/img/usa-icons/instagram.svg" alt="Instagram">
+    <img src="{{ '/assets/uswds/img/usa-icons/instagram.svg' | url }}" alt="Instagram">
   </div>
 
   <div class="wp-social-icon">
-    <img src="assets/uswds/img/usa-icons/youtube.svg" alt="YouTube">
+    <img src="{{ '/assets/uswds/img/usa-icons/youtube.svg' | url }}" alt="YouTube">
   </div>
 </div>

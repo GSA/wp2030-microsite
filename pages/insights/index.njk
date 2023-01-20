@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Insights
   order: 2
 hero:
-  image: assets/img/hero-insights.jpg
+  image: /assets/img/hero-insights.jpg
   heading: INSIGHTS
 ---
 
@@ -23,15 +23,15 @@ hero:
       {% for insight in collections.insights | sort(attribute='sortorder') %}
         <div class="tablet:grid-col-4 margin-y-1">
           <div class="flex-column">
-          <a class="usa-link text-no-underline text-black" href="{{ insight.url }}">
+          <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}">
             <img
-            src="{{ insight.data.image }}"
+            src="{{ insight.data.image | url }}"
             aria-hidden="true"
             />
           </a>
           </div>
           <div class="flex-column font-body-md text-semibold margin-y-1">
-            <a class="usa-link text-no-underline" href="{{ insight.url }}">
+            <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
               <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
             </a>
           </div>

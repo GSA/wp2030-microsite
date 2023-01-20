@@ -3,8 +3,8 @@ layout: layouts/insight
 title: GSA’s customer collaboration event recap
 date: 2023-01-23
 author: Traci Washington
-position: 
-image: assets/img/insights-guest-gsa.jpg
+position:
+image: /assets/img/insights-guest-gsa.jpg
 sortorder: 6
 permalink: /insights/gsas-customer-collaboration-event-recap/
 tags: insights
@@ -14,7 +14,7 @@ tags: insights
 The U.S. General Services Administration hosted a Workplace 2030 customer collaboration event at the agency’s Washington D.C. headquarters on December 6, 2022.
 
 GSA took this opportunity to engage 35 customers from 17 federal agencies in conversations about emerging industry trends, tools, technology, and solutions that GSA can provide to assist with return to the office and the future of work.
-Allison Azevedo, Deputy Commissioner for the Public Buildings Service (PBS) opened the event with a recap of the workplace initiative.  
+Allison Azevedo, Deputy Commissioner for the Public Buildings Service (PBS) opened the event with a recap of the workplace initiative.
 
  “Workplace 2030 is the next chapter in federal workplace innovation,” said Azevedo. “It was launched in the fall of 2020 as an effort to build on the shared pandemic experiences of 100 experts across 18 agencies and the private sector to imagine future, technology-leveraged work scenarios that prepare for new work realities post-pandemic and ultimately will continue to improve mission delivery.”
 
@@ -41,4 +41,3 @@ The event concluded with a reminder that GSA is well-positioned and very committ
 “We have an unbelievable cadre of experts in PBS on our Workplace Strategies team, and we have just rolled out a new Program Management Office that incorporates that group along with other areas of expertise we have to support return to office strategy development and implementation for customer agencies,” said Albert.
 
 Moving forward, GSA will work to adjust its Workplace 2030 offerings currently under development based on the input received from customer agencies and will continue to seek out agencies who are interested in partnering in pilot programs and prototypes for future offerings.
-

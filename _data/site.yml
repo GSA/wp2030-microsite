@@ -3,7 +3,7 @@
 # Configuration options for the overall settings for the website.
 
 title: Workplace
-logo: assets/img/gsa_logo.svg
+logo: /assets/img/gsa_logo.svg
 
 
 # COMPONENTS
@@ -27,7 +27,7 @@ identifier:
     text: U.S. General Services Administration
     href: https://www.gsa.gov/
   logo:
-    src: assets/img/gsa_logo.svg
+    src: /assets/img/gsa_logo.svg
     alt: GSA
   links:
     - text: About GSA
