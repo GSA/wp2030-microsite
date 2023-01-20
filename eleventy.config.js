@@ -6,7 +6,7 @@ const yaml = require("js-yaml");
 const path = require("path");
 const { DateTime } = require("luxon");
 const elasticlunr = require("elasticlunr");
-const { stripHtml } = require("string-strip-html");
+const striptags = require("striptags");
 
 module.exports = function(eleventyConfig) {
   const pathPrefix = path.join(process.env.BASEURL || "/", "workplace");
@@ -96,8 +96,6 @@ function miniGalleryItemShortcode(content, imageUrl, imageAlt) {
             <div>${content}</div>
           </div>`;
 }
-
-const striptags = require("striptags");
 
 function searchFilter(collection) {
   const searchIndex = elasticlunr(function () {
