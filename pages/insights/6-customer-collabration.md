@@ -11,9 +11,6 @@ tags: insights
 
 ---
 
-
-**GSA’s Workplace 2030 customer event looks at industry trends and space solutions**
-
 The U.S. General Services Administration hosted a Workplace 2030 customer collaboration event at the agency’s Washington D.C. headquarters on December 6, 2022.
 
 GSA took this opportunity to engage 35 customers from 17 federal agencies in conversations about emerging industry trends, tools, technology, and solutions that GSA can provide to assist with return to the office and the future of work.
@@ -44,17 +41,4 @@ The event concluded with a reminder that GSA is well-positioned and very committ
 “We have an unbelievable cadre of experts in PBS on our Workplace Strategies team, and we have just rolled out a new Program Management Office that incorporates that group along with other areas of expertise we have to support return to office strategy development and implementation for customer agencies,” said Albert.
 
 Moving forward, GSA will work to adjust its Workplace 2030 offerings currently under development based on the input received from customer agencies and will continue to seek out agencies who are interested in partnering in pilot programs and prototypes for future offerings.
-
-**Workplace 2030 customer event looks at industry trends and space solutions**
-PBS hosted a Workplace 2030 customer collaboration event at the GSA’s Washington DC headquarters on December 6, 2022.
-
-The event focused on creating awareness for customers on GSA’s capabilities to lead them into the Future of Work and what that can look like.
-
-PBS Commissioner Nina Albert’s presentation on trends and strategies for the workforce followed opening remarks by Chief Architect Chuck Hardy, Acting Assistant Commissioner for Portfolio and Customer Engagement Joanna Rosato, and Deputy Commissioner Allison Azevedo. The Q&A session with customers and PBS leadership was very productive.
-
-After the formal part of the day, Administrator Robin Carnahan and Deputy Administrator Katy Kale joined customers for a walk through and preview of the Workplace Innovation Lab. Customers were able to test the lab and provide feedback. (insert pics).
-
-The day continued with additional breakout sessions, lunch, feedback, and a farewell. 
-
-Moving forward, PBS will work to adjust the Workplace 2030 offerings under development based on the input received. The Workplace Innovation Lab is set to launch on January 25, 2023, with another customer event. Other offerings, pilots, and prototypes will launch later in 2023, and we are looking for agencies interested in partnering through these early phases
 
