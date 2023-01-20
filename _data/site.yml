@@ -55,7 +55,7 @@ footer:
     - heading: Subscribe to our newsletter
       icon: mail
       text: Sign up to get workplace updates
-      href:
+      href: https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1050
     - heading: Attend an upcoming event
       icon: event
       text: Check out our client enrichment series
