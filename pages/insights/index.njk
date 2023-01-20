@@ -14,7 +14,7 @@ hero:
 
   <div class="grid-container">
     <p class="font-body-lg text-semibold">
-      We’re keeping up with trending information about the future of federal work, with an eye toward the ways federal agencies manage space and perform hybrid work. Interested in seeing information about a specific topic? 
+      We’re keeping up with trending information about the future of federal work, with an eye toward the ways federal agencies manage space and perform hybrid work. Interested in seeing information about a specific topic?
       Let us know by emailing us at <a href="mailto:workplace@gsa.gov">workplace@gsa.gov.</a></p>
 
 
@@ -31,23 +31,23 @@ hero:
           </a>
           </div>
           <div class="flex-column font-body-md text-semibold">
-            <a class="usa-link text-no-underline" href="{{ insight.url }}"> 
+            <a class="usa-link text-no-underline" href="{{ insight.url }}">
               <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
             </a>
           </div>
 
           <div class="flex-column text-base font-sans-2xs">
-            {{ insight.data.date }}
+            {{ insight.data.date | postDate }}
             {%- if insight.data.author %}
               | {{ insight.data.author }}
             {%- endif %}
           </div>
-        
+
         </div>
       {% endfor %}
- 
+
       </div>
-      
+
     </div>
   </div>
 

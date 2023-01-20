@@ -1,0 +1,127 @@
+---
+layout: layouts/page
+title: Home
+permalink: /
+hero:
+  image: /assets/img/hero-home.jpg
+  original_heading: The future of federal work is coming.
+  heading: The future of federal work is here.
+  callout: GSA has decades of experience working with agencies to design space to meet evolving mission needs
+---
+
+<p class="font-sans-lg text-semibold">
+  We’re here to help you reimagine where and how people work. We know there isn’t a one-size-fits-all approach for agencies, so we have multiple tools and services to address your needs.
+</p>
+
+<a href="/offerings/" class="usa-button">Explore offerings</a>
+
+<hr>
+
+<h2>Latest insights</h2>
+
+<a href="/insights/" class="usa-button">Explore all insights</a>
+
+<p>
+  Learn more about government workplace trends and best practices in workplace strategy.
+</p>
+
+<div class="grid-row grid-gap">
+  {% for insight in collections.insights.slice(0, 3) %}
+    <div class="tablet:grid-col-4">
+      <div class="flex-column">
+      <a class="usa-link text-no-underline text-black" href="{{ insight.url }}">
+        <img
+        src="{{ insight.data.image }}"
+        aria-hidden="true"
+        />
+      </a>
+      </div>
+      <div class="flex-column font-body-md text-semibold">
+        <a class="usa-link text-no-underline" href="{{ insight.url }}">
+          <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
+        </a>
+      </div>
+      <div class="flex-column text-base font-sans-2xs">
+        {{ insight.data.date | postDate }}
+        {%- if insight.data.author %}
+          | {{ insight.data.author }}
+        {%- endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<hr>
+
+<h2>Guiding principles</h2>
+
+<p>
+  These principles were created by a coalition of 100 participants from 18 federal agencies as a starting point for organizations when considering their workplace strategies. Learn more about <a href="/about/">how we developed these principles</a>.
+</p>
+
+<div class="tablet:grid-col-8">
+
+  <div class="display-flex flex-row flex-no-wrap flex-align-start margin-y-3">
+    <div>
+      <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
+        <svg class="usa-icon square-5" aria-hidden="true" role="img">
+          <use xlink:href="assets/uswds/img/sprite.svg#location_on"></use>
+        </svg>
+      </div>
+    </div>
+    <div class="margin-left-1">
+      <strong>Work can be done anywhere, at any time.</strong><br>
+      Real estate will help us maintain and enhance human connections, but
+      technology will be the primary force that brings work together.
+    </div>
+  </div>
+
+  <div class="display-flex grid-row flex-row flex-no-wrap flex-align-start margin-y-3">
+    <div>
+      <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
+        <svg class="usa-icon square-5" aria-hidden="true" role="img">
+          <use xlink:href="assets/uswds/img/sprite.svg#location_city"></use>
+        </svg>
+      </div>
+    </div>
+    <div class="flex-column margin-left-1">
+      <strong>The office is necessary, but its purpose is shifting.</strong><br>
+      Offices will remain critical to collaborate, maintain connections, and
+      access secure resources. They will also continue serving as primary
+      workspaces for those who can’t (or don’t want to) work from home.
+    </div>
+  </div>
+
+  <div class="display-flex grid-row flex-row flex-no-wrap flex-align-start margin-y-3">
+    <div>
+      <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
+        <svg class="usa-icon square-5" aria-hidden="true" role="img">
+          <use xlink:href="assets/uswds/img/sprite.svg#connect_without_contact"></use>
+        </svg>
+      </div>
+    </div>
+    <div class="flex-column margin-left-1">
+      <strong>Distributed work is trusted work.</strong><br>
+      During the pandemic, agencies discovered the positive impacts of
+      telework. Employees will want to continue working wherever it best suits
+      the task at hand.
+    </div>
+  </div>
+
+  <div class="display-flex grid-row flex-row flex-no-wrap flex-align-start margin-y-3">
+    <div>
+      <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
+        <svg class="usa-icon square-5" aria-hidden="true" role="img">
+          <use xlink:href="assets/uswds/img/sprite.svg#work"></use>
+        </svg>
+      </div>
+    </div>
+    <div class="flex-column margin-left-1">
+      <strong>Hybrid work arrangements benefit both the employee and the organization.</strong><br>
+      Working from home affords employees scheduling flexibility,
+      opportunities to improve a work-life balance, and cost and time savings
+      from commuting.
+    </div>
+
+  </div>
+</div>
