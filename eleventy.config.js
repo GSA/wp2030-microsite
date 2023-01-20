@@ -36,6 +36,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode("banner", bannerShortcode);
   eleventyConfig.addPairedShortcode("miniGallery", miniGalleryShortcode);
   eleventyConfig.addPairedShortcode("miniGalleryItem", miniGalleryItemShortcode);
+  eleventyConfig.addShortcode("formatDate", formatDateShortcode);
 
   return {
     pathPrefix,
@@ -88,4 +89,14 @@ function miniGalleryItemShortcode(content, imageUrl, imageAlt) {
             <img src="${imageUrl}" alt="${imageAlt}" class="height-full width-full maxh-card" style="object-fit: cover;">
             <div>${content}</div>
           </div>`;
+}
+
+function formatDateShortcode(dateString) {
+  const d = new Date(dateString);
+  const formatted = d.toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric'
+  });
+  return formatted;
 }

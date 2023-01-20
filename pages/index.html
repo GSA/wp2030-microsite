@@ -42,7 +42,7 @@ hero:
         </a>
       </div>
       <div class="flex-column text-base font-sans-2xs">
-        {{ insight.data.date }}
+        {% formatDate insight.data.date %}
         {%- if insight.data.author %}
           | {{ insight.data.author }}
         {%- endif %}
