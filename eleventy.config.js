@@ -4,7 +4,6 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const path = require("path");
-const { DateTime } = require("luxon");
 const elasticlunr = require("elasticlunr");
 const striptags = require("striptags");
 const customShortcodes = require("./modules/shortcodes");
