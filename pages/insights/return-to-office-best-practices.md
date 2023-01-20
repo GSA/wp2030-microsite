@@ -6,13 +6,19 @@ author: Nina Albert
 position: GSA Public Building Service Commissioner
 permalink: /insights/return-to-office-best-practice/
 tags: insights
+
 ---
-## Return to office best practices
-### By Nina Albert, GSA Public Building Service Commissioner
+   <div class="text-base">
+          <div class="margin-y-1 font-sans-3xs">
+             {{ date | date: '%B %d,%Y' }}
+          </div>
+        </div>
+
 <img
     src="assets/img/mask-group.svg"
     aria-hidden="true"
   />
+
 We are seeing that many agencies are grappling with the return to office. There are so many facets to consider and work through, and it feels incredibly daunting.
 
 There is also a tension between employers and employees. Many employees feel like they can get their jobs done remotely at the same, or better levels, than when in the office, and they have a better quality of life with no commute and more family time. Whereas employers want employees in the office at some cadence to maintain culture, foster collaboration and teamwork, and create mentorship opportunities for new or early career staff.
