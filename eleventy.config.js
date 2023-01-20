@@ -9,7 +9,7 @@ const elasticlunr = require("elasticlunr");
 const striptags = require("striptags");
 
 module.exports = function(eleventyConfig) {
-  const pathPrefix = path.join(process.env.BASEURL || "/", "workplace");
+  const pathPrefix = process.env.BASEURL || "/";
 
   // Copy assets directory
   eleventyConfig.addPassthroughCopy("assets");
@@ -106,8 +106,6 @@ function searchFilter(collection) {
   });
 
   collection.forEach(page => {
-    console.log(page.content)
-
     const content = striptags(page.content)
       .replace(/^\s+|\s+$|\s+(?=\s)|/g, "")
       .replace(/\n|\t|\r/g, " ");

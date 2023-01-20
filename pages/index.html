@@ -13,13 +13,13 @@ hero:
   We’re here to help you reimagine where and how people work. We know there isn’t a one-size-fits-all approach for agencies, so we have multiple tools and services to address your needs.
 </p>
 
-<a href="/offerings/" class="usa-button">Explore offerings</a>
+<a href="{{ '/offerings/' | url }}" class="usa-button">Explore offerings</a>
 
 <hr>
 
 <h2>Latest insights</h2>
 
-<a href="/insights/" class="usa-button">Explore all insights</a>
+<a href="{{ '/insights/' | url }}" class="usa-button">Explore all insights</a>
 
 <p>
   Learn more about government workplace trends and best practices in workplace strategy.
@@ -29,15 +29,15 @@ hero:
   {% for insight in collections.insights.slice(0, 3) %}
     <div class="tablet:grid-col-4">
       <div class="flex-column">
-      <a class="usa-link text-no-underline text-black" href="{{ insight.url }}">
+      <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}">
         <img
-        src="{{ insight.data.image }}"
+        src="{{ insight.data.image | url }}"
         aria-hidden="true"
         />
       </a>
       </div>
       <div class="flex-column font-body-md text-semibold">
-        <a class="usa-link text-no-underline" href="{{ insight.url }}">
+        <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
           <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
         </a>
       </div>
@@ -56,7 +56,7 @@ hero:
 <h2>Guiding principles</h2>
 
 <p>
-  These principles were created by a coalition of 100 participants from 18 federal agencies as a starting point for organizations when considering their workplace strategies. Learn more about <a href="/about/">how we developed these principles</a>.
+  These principles were created by a coalition of 100 participants from 18 federal agencies as a starting point for organizations when considering their workplace strategies. Learn more about <a href="{{ '/about/' | url }}">how we developed these principles</a>.
 </p>
 
 <div class="tablet:grid-col-8">
@@ -65,7 +65,7 @@ hero:
     <div>
       <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
         <svg class="usa-icon square-5" aria-hidden="true" role="img">
-          <use xlink:href="assets/uswds/img/sprite.svg#location_on"></use>
+          <use xlink:href="{{ '/assets/uswds/img/sprite.svg#location_on' | url }}"></use>
         </svg>
       </div>
     </div>
@@ -80,7 +80,7 @@ hero:
     <div>
       <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
         <svg class="usa-icon square-5" aria-hidden="true" role="img">
-          <use xlink:href="assets/uswds/img/sprite.svg#location_city"></use>
+          <use xlink:href="{{ '/assets/uswds/img/sprite.svg#location_city' | url }}"></use>
         </svg>
       </div>
     </div>
@@ -96,7 +96,7 @@ hero:
     <div>
       <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
         <svg class="usa-icon square-5" aria-hidden="true" role="img">
-          <use xlink:href="assets/uswds/img/sprite.svg#connect_without_contact"></use>
+          <use xlink:href="{{ '/assets/uswds/img/sprite.svg#connect_without_contact' | url }}"></use>
         </svg>
       </div>
     </div>
@@ -112,7 +112,7 @@ hero:
     <div>
       <div class="square-8 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
         <svg class="usa-icon square-5" aria-hidden="true" role="img">
-          <use xlink:href="assets/uswds/img/sprite.svg#work"></use>
+          <use xlink:href="{{ '/assets/uswds/img/sprite.svg#work' | url }}"></use>
         </svg>
       </div>
     </div>

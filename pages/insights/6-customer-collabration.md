@@ -3,8 +3,8 @@ layout: layouts/insight
 title: GSA’s customer collaboration event recap
 date: 2023-01-23
 author: Traci Washington
-position: 
-image: assets/img/insights-guest-gsa.jpg
+position:
+image: /assets/img/insights-guest-gsa.jpg
 sortorder: 6
 permalink: /insights/gsas-customer-collaboration-event-recap/
 tags: insights
@@ -17,7 +17,7 @@ tags: insights
 The U.S. General Services Administration hosted a Workplace 2030 customer collaboration event at the agency’s Washington D.C. headquarters on December 6, 2022.
 
 GSA took this opportunity to engage 35 customers from 17 federal agencies in conversations about emerging industry trends, tools, technology, and solutions that GSA can provide to assist with return to the office and the future of work.
-Allison Azevedo, Deputy Commissioner for the Public Buildings Service (PBS) opened the event with a recap of the workplace initiative.  
+Allison Azevedo, Deputy Commissioner for the Public Buildings Service (PBS) opened the event with a recap of the workplace initiative.
 
  “Workplace 2030 is the next chapter in federal workplace innovation,” said Azevedo. “It was launched in the fall of 2020 as an effort to build on the shared pandemic experiences of 100 experts across 18 agencies and the private sector to imagine future, technology-leveraged work scenarios that prepare for new work realities post-pandemic and ultimately will continue to improve mission delivery.”
 
@@ -54,7 +54,7 @@ PBS Commissioner Nina Albert’s presentation on trends and strategies for the w
 
 After the formal part of the day, Administrator Robin Carnahan and Deputy Administrator Katy Kale joined customers for a walk through and preview of the Workplace Innovation Lab. Customers were able to test the lab and provide feedback. (insert pics).
 
-The day continued with additional breakout sessions, lunch, feedback, and a farewell. 
+The day continued with additional breakout sessions, lunch, feedback, and a farewell.
 
 Moving forward, PBS will work to adjust the Workplace 2030 offerings under development based on the input received. The Workplace Innovation Lab is set to launch on January 25, 2023, with another customer event. Other offerings, pilots, and prototypes will launch later in 2023, and we are looking for agencies interested in partnering through these early phases
 

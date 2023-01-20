@@ -3,8 +3,8 @@ layout: layouts/insight
 title: Lessons learned from commercial coworking pilot
 date: 2023-01-23
 author: Jeff Woodworth
-position: 
-image: assets/img/insights-lesson-learned.jpg
+position:
+image: /assets/img/insights-lesson-learned.jpg
 sortorder: 3
 permalink: /insights/commercial-coworking-pilot-lessons-learned/
 tags: insights
@@ -35,6 +35,6 @@ What they disliked:
 <b>What is coworking?</b>
 
 Coworking is an arrangement in which workers of different organizations share office space, allowing cost-savings and convenience through the use of common infrastructures such as equipment, utilities and receptionist and custodial services.
-Learn about GSA’s coworking offerings in both <a href="http://gsa.gov/workplace/offerings" target=”_blank”>commercial and federally</a> owned space.
+Learn about GSA’s coworking offerings in both <a href="{{ '/offerings/' | url }}">commercial and federally</a> owned space.
 
 

@@ -3,11 +3,13 @@
     pathPrefix = "";
   }
 
+  console.log(pathPrefix)
+
   function initSearch() {
     const searchQuery = getSearchQuery();
 
     if (searchQuery) {
-      fetch(pathPrefix + "/searchindex.json").then((res) => {
+      fetch(pathPrefix + "searchindex.json").then((res) => {
         res.json().then((indexData) => {
           window.searchIndex = elasticlunr.Index.load(indexData);
           performSearch(searchQuery);

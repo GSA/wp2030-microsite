@@ -4,13 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <base href="{{ pathPrefix }}">
     <title>{{ title }} - {{ site.title }}</title>
-    <script src="/assets/uswds/js/uswds-init.min.js"></script>
-    <link rel="stylesheet" href="/assets/uswds/css/styles.css">
+    <script src="{{ '/assets/uswds/js/uswds-init.min.js' | url }}"></script>
+    <link rel="stylesheet" href="{{ '/assets/uswds/css/styles.css' | url }}">
   </head>
   <body>
-    <a class="usa-skipnav " href="#main-content">Skip to main content</a>
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 
     {% if site.banner.enabled %}
       {% include 'components/banner.njk' if site.banner.enabled %}
@@ -38,7 +37,7 @@
       {% include 'components/identifier.njk' %}
     {% endif %}
 
-    <script src="/assets/uswds/js/uswds.min.js"></script>
-    <script src="/assets/js/site.js"></script>
+    <script src="{{ '/assets/uswds/js/uswds.min.js' | url }}"></script>
+    <script src="{{ '/assets/js/site.js' | url }}"></script>
   </body>
 </html>

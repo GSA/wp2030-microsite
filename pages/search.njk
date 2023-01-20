@@ -7,13 +7,13 @@ layout: layouts/page
 <h1>Search</h1>
 
 <section aria-label="Search component">
-  <form class="usa-search" role="search" action="{{ page.url }}" method="get">
+  <form class="usa-search" role="search" action="{{ page.url | url }}" method="get">
     <label class="usa-sr-only" for="search-page-field">Search</label>
     <input class="usa-input" id="search-page-field" type="search" name="search" />
     <button class="usa-button" type="submit">
       <span class="usa-search__submit-text">Search </span
       ><img
-        src="assets/uswds/img/usa-icons-bg/search--white.svg"
+        src="{{ '/assets/uswds/img/usa-icons-bg/search--white.svg' | url }}"
         class="usa-search__submit-icon"
         alt="Search"
       />
@@ -27,5 +27,5 @@ layout: layouts/page
 </div>
 
 <script>var pathPrefix = "{{ pathPrefix }}";</script>
-<script src="/assets/js/elasticlunr.min.js"></script>
-<script src="/assets/js/search.js"></script>
+<script src="{{ '/assets/js/elasticlunr.min.js' | url }}"></script>
+<script src="{{ '/assets/js/search.js' | url }}"></script>
