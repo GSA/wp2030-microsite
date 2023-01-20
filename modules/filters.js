@@ -1,3 +1,5 @@
+const { DateTime } = require("luxon");
+
 module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("postDate", dateObj => DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL));
 
