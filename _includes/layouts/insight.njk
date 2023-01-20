@@ -10,7 +10,18 @@ breadcrumb:
 
     <main id="main-content">
       <h2 class="title">{{title}}</h2>
-        <span class="text-semibold font-serif-2xs"> By {{ author }}, {{position}}</span> 
+        <span class="text-semibold font-serif-2xs"> By {{ author }}, {{position}}</span>
+        <div class="text-base">
+          <div class="margin-y-1 font-sans-3xs">
+             {{ date }}
+          </div>
+        </div>
+
+      <img
+          src="{{image}}"
+          aria-hidden="true"
+          width="50%"
+        /> 
         
       <div class="usa-prose">
         {{ content | safe }}

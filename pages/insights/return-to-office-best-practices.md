@@ -4,20 +4,12 @@ title: Return to office best practices
 date: 2023-01-23
 author: Nina Albert
 position: GSA Public Building Service Commissioner
+image: assets/img/insights-best-practice.svg
 permalink: /insights/return-to-office-best-practice/
 tags: insights
 
 ---
-   <div class="text-base">
-          <div class="margin-y-1 font-sans-3xs">
-             {{ date | date: '%B %d,%Y' }}
-          </div>
-        </div>
 
-<img
-    src="assets/img/mask-group.svg"
-    aria-hidden="true"
-  />
 
 We are seeing that many agencies are grappling with the return to office. There are so many facets to consider and work through, and it feels incredibly daunting.
 

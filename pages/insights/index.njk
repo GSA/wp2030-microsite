@@ -16,8 +16,35 @@ hero:
     <p class="font-body-lg text-semibold">
       We’re keeping up with trending information about the future of federal work, with an eye toward the ways federal agencies manage space and perform hybrid work. Interested in seeing information about a specific topic? 
       Let us know by emailing us at <a href="mailto:workplace@gsa.gov">workplace@gsa.gov.</a></p>
-    <div class="grid-row grid-gap">
-     
+
+ 
+    <div class="grid-container padding-top-205">
+      <div class="grid-row">
+      {% for insight in collections.insights %}
+        <div class="tablet:grid-col">
+          <div class="flex-column">
+          <a class="usa-link text-no-underline" href="{{ insight.url }}">
+            <img
+            src="{{ insight.data.image }}"
+            aria-hidden="true"
+            />
+          </a>
+          </div>
+          <div class="flex-column font-body-md text-semibold">
+            <a class="usa-link text-no-underline" href="{{ insight.url }}"> 
+              <span class="text-bold">{{ insight.data.title }}<span>
+            </a>
+          </div>
+
+          <div class="flex-column text-base font-sans-2xs">
+            {{ insight.data.date }}  | {{ insight.data.author }}
+          </div>
+        
+        </div>
+      {% endfor %}
+ 
+      </div>
+      
     </div>
   </div>
 
