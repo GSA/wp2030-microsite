@@ -25,6 +25,32 @@ hero:
   Learn more about government workplace trends and best practices in workplace strategy.
 </p>
 
+<div class="grid-row grid-gap">
+  {% for insight in collections.insights.slice(0, 3) %}
+    <div class="tablet:grid-col-4">
+      <div class="flex-column">
+      <a class="usa-link text-no-underline text-black" href="{{ insight.url }}">
+        <img
+        src="{{ insight.data.image }}"
+        aria-hidden="true"
+        />
+      </a>
+      </div>
+      <div class="flex-column font-body-md text-semibold">
+        <a class="usa-link text-no-underline" href="{{ insight.url }}">
+          <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
+        </a>
+      </div>
+      <div class="flex-column text-base font-sans-2xs">
+        {{ insight.data.date }}
+        {%- if insight.data.author %}
+          | {{ insight.data.author }}
+        {%- endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
 <hr>
 
 <h2>Guiding principles</h2>
