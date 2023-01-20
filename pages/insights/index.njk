@@ -37,7 +37,7 @@ hero:
           </div>
 
           <div class="flex-column text-base font-sans-2xs">
-            {% formatDate insight.data.date %}
+            {{ insight.data.date | postDate }}
             {%- if insight.data.author %}
               | {{ insight.data.author }}
             {%- endif %}
