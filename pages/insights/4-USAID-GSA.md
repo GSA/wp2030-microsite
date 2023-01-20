@@ -5,7 +5,7 @@ date: 2023-01-23
 author: Jeff Woodworth
 position:
 image: assets/img/insights-USAID-GSA.svg
-sortorder: 3
+sortorder: 4
 permalink: /insights/usaid-gsa-consolidating-space-to-drive-cost-avoidance/
 tags: insights
 
