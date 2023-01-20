@@ -4,7 +4,7 @@ title: Lessons learned from commercial coworking pilot
 date: 2023-01-23
 author: Jeff Woodworth
 position: 
-image: assets/img/insights-lesson-learned.svg
+image: assets/img/insights-lesson-learned.jpg
 sortorder: 3
 permalink: /insights/commercial-coworking-pilot-lessons-learned/
 tags: insights
