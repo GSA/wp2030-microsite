@@ -4,6 +4,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const path = require("path");
+const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   const pathPrefix = path.join(process.env.BASEURL || "/", "workplace");
@@ -36,7 +37,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode("banner", bannerShortcode);
   eleventyConfig.addPairedShortcode("miniGallery", miniGalleryShortcode);
   eleventyConfig.addPairedShortcode("miniGalleryItem", miniGalleryItemShortcode);
-  eleventyConfig.addShortcode("formatDate", formatDateShortcode);
+
+  // Custom filters
+  eleventyConfig.addFilter("postDate", dateObj => DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL));
 
   return {
     pathPrefix,
@@ -89,14 +92,4 @@ function miniGalleryItemShortcode(content, imageUrl, imageAlt) {
             <img src="${imageUrl}" alt="${imageAlt}" class="height-full width-full maxh-card" style="object-fit: cover;">
             <div>${content}</div>
           </div>`;
-}
-
-function formatDateShortcode(dateString) {
-  const d = new Date(dateString);
-  const formatted = d.toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric'
-  });
-  return formatted;
 }
