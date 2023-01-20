@@ -116,3 +116,10 @@ blockquote {
   @include u-color('base-darker');
   @include u-text('italic');
 }
+
+hr {
+  @include u-margin-y(8);
+  @include u-border(0);
+  @include u-border-top('1px');
+  @include u-border-color('base-light');
+}

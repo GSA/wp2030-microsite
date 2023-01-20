@@ -18,7 +18,8 @@
     "@uswds/compile": "^1.0.0",
     "concurrently": "^7.6.0",
     "gulp": "^4.0.2",
-    "markdown-it-anchor": "^8.6.6"
+    "markdown-it-anchor": "^8.6.6",
+    "markdown-it-attrs": "^4.1.6"
   },
   "dependencies": {
     "@uswds/uswds": "^3.3.0"
