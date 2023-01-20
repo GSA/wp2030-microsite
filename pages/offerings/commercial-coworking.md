@@ -10,7 +10,7 @@ tags: offerings
 
 # Commercial Coworking
 
-{% banner "assets/img/offering-commercial-coworking-top.jpg", "Photograph of an open office space, with several individuals sitting or standing at various workspaces" %}
+{% banner "/assets/img/offering-commercial-coworking-top.jpg", "Photograph of an open office space, with several individuals sitting or standing at various workspaces" %}
 
 ## Provide federal employees with a short-term space solution
 
@@ -49,21 +49,21 @@ Workspace options include:
 
 {% miniGallery %}
   {% miniGalleryItem
-    "assets/img/offering-commercial-coworking-expansive.jpg",
+    "/assets/img/offering-commercial-coworking-expansive.jpg",
     "Photo of an empty open office" %}
       <strong>Dupont Circle at Expansive</strong>
       <br>1201 Connecticut Ave NW
       <br>Washington, DC 20036
   {% endminiGalleryItem %}
   {% miniGalleryItem
-    "assets/img/offering-commercial-coworking-wework.jpg",
+    "/assets/img/offering-commercial-coworking-wework.jpg",
     "Photo of an open office with people sitting on armchairs and a bench" %}
     <strong>Wells Fargo Center at WeWork</strong>
     <br>1700 Lincoln St
     <br>Denver, CO 80203
   {% endminiGalleryItem %}
   {% miniGalleryItem
-    "assets/img/offering-commercial-coworking-theyard.jpg",
+    "/assets/img/offering-commercial-coworking-theyard.jpg",
     "Photo of an open office with a long shared table, and two people working" %}
     <strong>Eastern Market at The Yard</strong>
     <br>700 Pennsylvania Ave SE
