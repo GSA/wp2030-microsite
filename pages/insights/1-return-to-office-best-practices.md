@@ -4,7 +4,9 @@ title: Return to office best practices
 date: 2023-01-23
 author: Nina Albert
 position: PBS Commissioner
-image: /assets/img/insights-best-practice.jpg
+image: 
+  url: /assets/img/insights-best-practice.jpg
+  alt: A person working on a laptop in an office booth next to a teleconference monitor
 sortorder: 1
 permalink: /insights/return-to-office-best-practice/
 tags: insights

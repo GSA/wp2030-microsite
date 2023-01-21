@@ -4,7 +4,9 @@ title: USAID + GSA &#58; Consolidating space to drive cost avoidance
 date: 2023-01-23
 author:
 position:
-image: /assets/img/insights-USAID-GSA.jpg
+image: 
+  url: /assets/img/insights-USAID-GSA.jpg
+  alt: Two people having a conversation in a large, modern office building foyer
 sortorder: 4
 permalink: /insights/usaid-gsa-consolidating-space-to-drive-cost-avoidance/
 tags: insights

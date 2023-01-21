@@ -4,7 +4,9 @@ title: GSA’s customer collaboration event recap
 date: 2023-01-23
 author: Traci Washington
 position:
-image: /assets/img/insights-guest-gsa.jpg
+image:
+  url: /assets/img/insights-guest-gsa.jpg
+  alt: A group of people on a stage in a panel discussion
 sortorder: 6
 permalink: /insights/gsas-customer-collaboration-event-recap/
 tags: insights
