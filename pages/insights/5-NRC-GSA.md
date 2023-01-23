@@ -4,7 +4,9 @@ title: NRC + GSA &#58; Space reduction and cost savings in new lease
 date: 2023-01-23
 author:
 position:
-image: /assets/img/insights-NRC-GSA.jpg
+image: 
+  url: insights-NRC-GSA.jpg
+  alt: A modern conference room with abundant natural light
 sortorder: 5
 permalink: /insights/nrc-gsa-space-reduction-and-cost-savings-in-new-lease/
 tags: insights
