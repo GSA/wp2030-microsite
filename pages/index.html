@@ -17,11 +17,13 @@ hero:
 
 <hr>
 
-<h2>Latest insights</h2>
+<div class="wp-insights-heading">
+  <h2 class="wp-insights-heading__header">Latest insights</h2>
+
+  <a href="{{ '/insights/' | url }}" class="usa-button wp-insights-heading__button">Explore all insights</a>
+</div>
 
 <p>Learn more about government workplace trends and best practices in workplace strategy.</p>
-
-<a href="{{ '/insights/' | url }}" class="usa-button">Explore all insights</a>
 
 <div class="grid-row grid-gap">
   {% for insight in collections.insights.slice(0, 3) %}
