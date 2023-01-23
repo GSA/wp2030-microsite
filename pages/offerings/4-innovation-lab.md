@@ -14,15 +14,15 @@ Located on the second floor of our headquarters at 1800 F Street NW, Washington,
 
 ## Envision a new federal workspace
 
-The lab offers shared collaboration spaces, conference rooms, and about 25,000 usable square feet of office space, divided into six neighborhoods—each featuring a different workspace and furniture layout—in a federal building equipped with an access control system and on-site security personnel. There is no cost to use the lab and no agreement needed, during the calendar year 2023 pilot.
+The lab offers shared collaboration spaces, conference rooms, and office space, divided into six suites across nearly 25,000 usable square feet. Each suite features a different workspace and furniture layout— all in a federal building equipped with an access control system and on-site security personnel. There is no cost to use the lab and no agreement needed during the calendar year 2023 pilot.
 
 The lab lets your agency try new technology and furniture options from multiple vendors before purchasing. Technology includes products that enhance your employees’ hybrid experience, promote health and wellness, and support the federal government’s commitment toward a net zero carbon emissions operation.
 
-> “Cannot wait to sell this broadly to teams&mdash;what a great benefit!”
+> “Cannot wait to sell this broadly to teams—what a great benefit!” –Anonymous survey respondent
 
-## Help us test the space
+## Test out our space as your workspace
 
-Federal employees can contact us to schedule time to work in the lab for a few hours or all day.
+Authorized federal employees and teams may reserve times through our reservation system to work in the lab for a few hours or all day.
 
 To inform future federal workplace design and operation, we will collect real-time data through the lab’s various sensors, reservations, and post-occupancy surveys. We will also compile feedback and share with industry to help foster innovations that meet government needs.
 
