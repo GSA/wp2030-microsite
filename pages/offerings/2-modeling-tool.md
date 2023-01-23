@@ -22,7 +22,10 @@ WIFM is a customizable tool federal agencies can use to:
 * See the impact telework can have on your future workplace needs.
 * Jump start development of your future space requirements.
 * Develop feasibility scenarios for your workplace programming.
-* Discover opportunities for space efficiency through hybrid work
+
+## Discover opportunities for space efficiency through hybrid work
+
+> “The training that [GSA] provided was wonderful. GSA’s engagement with this [WIFM] tool has been outstanding and I have appreciated it. A true example of customer service.”  –Elizabeth Olexa, U.S. Department of Agriculture
 
 Using built-in [activity based planning](https://www.gsa.gov/cdnstatic/GSA%20Workplace%20Matters%20ABP%20(FINAL%20-%20508%20Compliant).pdf) logic, you can compare multiple hybrid strategies and their impact on office space reduction. WIFM’s scenarios consider traditional private offices, workstation, and touchdown space needs for your employees, regardless of how many times a week they may come into the office. Meeting rooms and other collaboration spaces are also automatically adjusted based on employee hybrid work levels.
 
