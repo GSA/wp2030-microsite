@@ -4,7 +4,9 @@ title: Interesting times produce creative opportunities
 date: 2023-01-23
 author: Chuck Hardy
 position: Chief Architect
-image: /assets/img/insights-interesting.jpg
+image: 
+  url: /assets/img/insights-interesting.jpg
+  alt: A group of people in business attire working at a modern conference table
 sortorder: 2
 permalink: /insights/interesting-times-produce-creative-opportunities/
 tags: insights
