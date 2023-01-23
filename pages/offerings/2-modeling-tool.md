@@ -45,4 +45,4 @@ Watch an [overview of WIFM](https://www.youtube.com/watch?v=GoYJtO57XJ4) from ou
 
 ## Get in touch
 
-[workplace@gsa.gov](mailto:workplace@gsa.gov)
+To learn more about WIFM, email [workplace@gsa.gov](mailto:workplace@gsa.gov)
