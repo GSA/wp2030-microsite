@@ -29,7 +29,7 @@
           </ul>
         </div>
       </div>
-      <div class="usa-nav__secondary">
+      <div class="usa-nav__secondary wp-header__secondary">
         <ul class="usa-nav__secondary-links">
           {% for link in site.header.secondaryLinks %}
             <li class="usa-nav__secondary-item">
@@ -48,6 +48,7 @@
                 id="search-field"
                 type="search"
                 name="search"
+                placeholder="Search {{ site.title }}"
               />
               <button class="usa-button" type="submit">
                 <img
