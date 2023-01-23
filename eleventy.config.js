@@ -3,7 +3,6 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
-const path = require("path");
 const customShortcodes = require("./modules/shortcodes");
 const customFilters = require("./modules/filters");
 
