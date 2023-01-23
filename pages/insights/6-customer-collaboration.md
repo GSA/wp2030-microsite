@@ -1,9 +1,9 @@
 ---
 layout: layouts/insight
-title: GSA’s customer collaboration event recap
+title: GSA’s Workplace 2030 customer event looks at industry trends and space solutions
 date: 2023-01-23
 author: Traci Washington
-position:
+position: Supervisory Communications Specialist
 image:
   url: /assets/img/insights-guest-gsa.jpg
   alt: A group of people on a stage in a panel discussion
@@ -16,11 +16,12 @@ tags: insights
 The U.S. General Services Administration hosted a Workplace 2030 customer collaboration event at the agency’s Washington D.C. headquarters on December 6, 2022.
 
 GSA took this opportunity to engage 35 customers from 17 federal agencies in conversations about emerging industry trends, tools, technology, and solutions that GSA can provide to assist with return to the office and the future of work.
+
 Allison Azevedo, Deputy Commissioner for the Public Buildings Service (PBS) opened the event with a recap of the workplace initiative.
 
- “Workplace 2030 is the next chapter in federal workplace innovation,” said Azevedo. “It was launched in the fall of 2020 as an effort to build on the shared pandemic experiences of 100 experts across 18 agencies and the private sector to imagine future, technology-leveraged work scenarios that prepare for new work realities post-pandemic and ultimately will continue to improve mission delivery.”
+“Workplace 2030 is the next chapter in federal workplace innovation,” said Azevedo. “It was launched in the fall of 2020 as an effort to build on the shared pandemic experiences of 100 experts across 18 agencies and the private sector to imagine future, technology-leveraged work scenarios that prepare for new work realities post-pandemic and ultimately will continue to improve mission delivery.”
 
-“We took your visioning and input, and we spent the last two years researching and developing plans, tools and services and putting in place contracts -- all to help you, our customer agencies begin to solve the future of federal work puzzle,” she continued.
+“We took your visioning and input, and we spent the last two years researching and developing plans, tools and services and putting in place contracts – all to help you, our customer agencies begin to solve the future of federal work puzzle,” she continued.
 
 Nina Albert, PBS Commissioner, took the stage to present on industry trends and strategies for the workforce.
 
@@ -29,14 +30,14 @@ Nina Albert, PBS Commissioner, took the stage to present on industry trends and 
 A key objective of the customer collaboration event was to facilitate a two-way dialogue between GSA and federal agencies to better understand their progress, successes, and challenges as well as to gather feedback on GSA’s existing and emerging offerings which include:
 
 - **Workplace Engagements:** Suite of GSA in-house and contracted studies and activities that holistically evaluate human, space, and technology needs.
-Commercial Coworking: Federal agencies use private sector coworking spaces via IDIQ.
-- **Workplace Feasibility Modeling Tool:** A configurable tool comparing hybrid scenarios and the space-saving benefits of increased telework
+- **Commercial Coworking:** Federal agencies use private sector coworking spaces via IDIQ.
+- **Workplace Feasibility Modeling Tool:** A configurable tool comparing hybrid scenarios and the space-saving benefits of increased telework.
 - **Workplace Innovation Lab:** A proving ground for the latest workplace technologies, equipment, and furniture set in a federal coworking space at GSA Headquarters.
 - **Fast Track Space:** Agencies choose from pre-packaged space designs, concept models and square footages to fit their needs.
 - **Federal Space Listing:** A web-based tool showing GSA’s vacant owned and leased space.
 - **Federal Coworking:** On-demand coworking space in existing GSA leases and owned buildings, rather than in private-sector coworking environments.
 
-As attendees separated into breakout sessions on the future offerings, agency representatives had an opportunity to hear directly from GSA’s Administrator Robin Carnahan and Deputy Administrator Katy Kale as they joined participants for a tour of the Workplace Innovation Lab which will officially open on January 25th.
+As attendees separated into breakout sessions on the future offerings, agency representatives had an opportunity to hear directly from GSA’s Administrator Robin Carnahan and Deputy Administrator Katy Kale as they joined participants for a tour of the Workplace Innovation Lab.
 
 The event concluded with a reminder that GSA is well-positioned and very committed to partnering with federal agencies on their next steps.
 
