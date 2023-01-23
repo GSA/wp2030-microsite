@@ -25,7 +25,8 @@ Our contract provides you access to short-term, on-demand commercial coworking s
 * Swing space (example: delayed construction project).
 * Pilots (example: testing a coworking program).
 
-> “[I liked the] ability to work alongside non-federal workers and fed workers from other agencies.”
+> “[I liked the] ability to work alongside non-federal workers and fed workers from other agencies.”  
+> – Anonymous survey respondent
 
 ## Commercial coworking space
 
@@ -79,7 +80,7 @@ Workspace options include:
 {% iconList %}
   {% iconListItem "text-green", "check_circle", "For agencies that need temporary access to commercial coworking spaces. Agencies occupy only the space they need to accomplish their mission and promote responsible use of taxpayer dollars." %}
   {% iconListItem "text-green", "check_circle", "A flexible, short–term agreement for federal agencies to gain access to a fully furnished, open concept, coworking office space in a commercial property." %}
-  {% iconListItem "text-green", "check_circle", "Quick procurement timelines and flexibility. No need to design, lease, build-out, and furnish space." %}
+  {% iconListItem "text-green", "check_circle", "Quick procurement timelines and flexibility. No need to design, lease, [build-out](https://www.gsa.gov/reference/glossary?gsaredirect=glossary#build-out), and furnish space." %}
   {% iconListItem "text-green", "check_circle", "For agencies that want to test new ways of working, foster innovation, share resources, promote equity, and enhance adaptability." %}
 {% endiconList %}
 
@@ -90,7 +91,7 @@ The contract has very specific parameters and may not work for agencies with spa
 {% iconList %}
   {% iconListItem "text-red", "cancel", "A long-term solution for agencies with space requirements beyond 12 months. To secure additional months of coworking space, we must recompete the task order, and an agency may be assigned to a new space managed by a different vendor." %}
   {% iconListItem "text-red", "cancel", "For exclusive use by a single agency. An agency may not be  guaranteed daily access to the same workspace." %}
-  {% iconListItem "text-red", "cancel", "For classified, confidential, or sensitive work. The office space is shared with other federal agencies and the public; it is not secured." %}
+  {% iconListItem "text-red", "cancel", "For classified, confidential, or sensitive work." %}
   {% iconListItem "text-red", "cancel", "Suitable for agencies needing alterations or construction for their specific mission needs." %}
 {% endiconList %}
 
