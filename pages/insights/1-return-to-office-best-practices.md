@@ -42,4 +42,4 @@ A few best practices have emerged:
 
 Returning to the office after years of working away is a big challenge. It can be daunting to try and tackle every single issue, and expect everything to go perfectly, all at once. Remember that this is a sequential and incremental process and give your organization some grace as you experiment and learn what works, and doesn’t.
 
-We’d love to hear best practices that your organization has tried with the return to office! Reach out to us at workplace@gsa.gov to share what you’ve tried.
+We’d love to hear best practices that your organization has tried with the return to office! Reach out to us at <a href="mailto:workplace@gsa.gov">workplace@gsa.gov</a> to share what you’ve tried.
