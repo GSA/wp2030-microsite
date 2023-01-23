@@ -37,6 +37,6 @@ What they disliked:
 <b>What is coworking?</b>
 
 Coworking is an arrangement in which workers of different organizations share office space, allowing cost-savings and convenience through the use of common infrastructures such as equipment, utilities and receptionist and custodial services.
-Learn about GSA’s coworking offerings in both <a href="{{ '/offerings/' | url }}">commercial and federally</a> owned space.
+Learn about GSA’s coworking offerings in both <a href="{{ '/offerings/commercial-coworking/' | url }}">commercial and federally</a> owned space.
 
 
