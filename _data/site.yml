@@ -22,7 +22,7 @@ header:
 
 identifier:
   enabled: true
-  domain: gsa.gov
+  domain: gsa.gov/workplace
   parentAgency:
     text: U.S. General Services Administration
     href: https://www.gsa.gov/
