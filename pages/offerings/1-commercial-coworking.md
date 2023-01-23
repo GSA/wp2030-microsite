@@ -50,21 +50,21 @@ Workspace options include:
 {% miniGallery %}
   {% miniGalleryItem
     "/assets/img/offering-commercial-coworking-expansive.jpg",
-    "Photo of an empty open office" %}
+    "An open office furnished with work tables, chairs, couches, and office supplies" %}
       <strong>Dupont Circle at Expansive</strong>
       <br>1201 Connecticut Ave NW
       <br>Washington, DC 20036
   {% endminiGalleryItem %}
   {% miniGalleryItem
     "/assets/img/offering-commercial-coworking-wework.jpg",
-    "Photo of an open office with people sitting on armchairs and a bench" %}
+    "An open office with a person descending a staircase, a person sitting on a bench working on a laptop, and two people drinking from mugs sitting in armchairs" %}
     <strong>Wells Fargo Center at WeWork</strong>
     <br>1700 Lincoln St
     <br>Denver, CO 80203
   {% endminiGalleryItem %}
   {% miniGalleryItem
     "/assets/img/offering-commercial-coworking-theyard.jpg",
-    "Photo of an open office with a long shared table, and two people working" %}
+    "An open office with three working tables, a person walking through the center of the room, three people seated and working on laptops, and large windows with fall-colored foliage outside" %}
     <strong>Eastern Market at The Yard</strong>
     <br>700 Pennsylvania Ave SE
     <br>Washington, DC 20003
