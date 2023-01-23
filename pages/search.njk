@@ -9,7 +9,7 @@ layout: layouts/page
 <section aria-label="Search component">
   <form class="usa-search" role="search" action="{{ page.url | url }}" method="get">
     <label class="usa-sr-only" for="search-page-field">Search</label>
-    <input class="usa-input" id="search-page-field" type="search" name="search" />
+    <input class="usa-input" id="search-page-field" type="search" name="search" placeholder="Search {{ site.title }}" />
     <button class="usa-button" type="submit">
       <span class="usa-search__submit-text">Search </span
       ><img
