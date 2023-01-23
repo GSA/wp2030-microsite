@@ -9,9 +9,9 @@
       <p class="tablet:grid-col-8">{{ hero.callout }}</p>
     {% endif %}
     {% if hero.action %}
-      <a class="usa-button text-uppercase" href="{{ hero.action.href }}">{{ hero.action.text }}</a>
+      <a class="usa-button text-uppercase" href="{{ hero.action.href | url }}">{{ hero.action.text }}</a>
     {% endif %}
   </div>
 </section>
 
-<script src="/assets/js/hero.js"></script>
+<script src="{{ '/assets/js/hero.js' | url }}"></script>

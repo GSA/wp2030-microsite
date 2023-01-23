@@ -3,7 +3,7 @@
   <div class="usa-navbar">
     <div class="usa-logo wp-header__logo">
       <a href="https://www.gsa.gov/">
-        <img src="{{ site.logo }}" class="wp-header__logo-image" alt="GSA logo">
+        <img src="{{ site.logo | url }}" class="wp-header__logo-image" alt="GSA logo">
         <span class="wp-header__logo-text">U.S. General Services Administration</span>
       </a>
     </div>
@@ -12,18 +12,18 @@
   <nav aria-label="Primary navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button type="button" class="usa-nav__close">
-        <img src="/assets/uswds/img/usa-icons/close.svg" role="img" alt="Close" />
+        <img src="{{ '/assets/uswds/img/usa-icons/close.svg' | url }}" role="img" alt="Close" />
       </button>
       <div class="wp-header__nav">
         <div class="wp-header__nav-title">
-          <a href="/" class="wp-header__nav-title-text">{{ site.title }}</a>
+          <a href="{{ '/' | url }}" class="wp-header__nav-title-text">{{ site.title }}</a>
         </div>
         <div class="wp-header__nav-links">
           {% set nav = collections.all | eleventyNavigation %}
           <ul class="usa-nav__primary usa-accordion">
             {% for entry in nav %}
               <li class="usa-nav__primary-item">
-                <a href="{{ entry.url }}" class="usa-nav-link {% if entry.url == page.url %}usa-current{% endif %}"><span>{{ entry.title }}</span></a>
+                <a href="{{ entry.url | url }}" class="usa-nav-link {% if entry.url == page.url %}usa-current{% endif %}"><span>{{ entry.title }}</span></a>
               </li>
             {% endfor %}
           </ul>
@@ -33,7 +33,7 @@
         <ul class="usa-nav__secondary-links">
           {% for link in site.header.secondaryLinks %}
             <li class="usa-nav__secondary-item">
-              <a href="{{ link.href }}">
+              <a href="{{ link.href | url }}">
                 {{ link.text }}
               </a>
             </li>
@@ -41,7 +41,7 @@
         </ul>
         {% if site.header.search %}
           <section aria-label="Search component">
-            <form class="usa-search usa-search--small" role="search">
+            <form class="usa-search usa-search--small" role="search" action="/search/" method="get">
               <label class="usa-sr-only" for="search-field">Search</label>
               <input
                 class="usa-input"
@@ -51,7 +51,7 @@
               />
               <button class="usa-button" type="submit">
                 <img
-                  src="/assets/uswds/img/usa-icons-bg/search--white.svg"
+                  src="{{ '/assets/uswds/img/usa-icons-bg/search--white.svg' | url }}"
                   class="usa-search__submit-icon"
                   alt="Search"
                 />

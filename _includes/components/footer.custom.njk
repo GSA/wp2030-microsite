@@ -12,13 +12,13 @@
           <div class="tablet:grid-col margin-top-1">
             <div class="usa-media-block">
               <div class="usa-media-block__img circle-5 bg-primary display-flex flex-row flex-align-center flex-justify-center text-white">
-                <img src="{{ ['assets/uswds/img/usa-icons/', link.icon, '.svg'] | join }}" alt="" style="filter: invert(1);">
+                <img src="{{ ['/assets/uswds/img/usa-icons/', link.icon, '.svg'] | join | url }}" alt="" style="filter: invert(1);">
               </div>
               <div class="usa-media-block__body">
                 <h3 class="margin-0 font-sans-sm line-height-sans-2">
                   {{ link.heading }}
                 </h3>
-                <a href="{{ link.href }}" class="font-sans-xs">
+                <a href="{{ link.href | url }}" class="font-sans-xs">
                   {{ link.text }}
                 </a>
               </div>

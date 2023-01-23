@@ -2,7 +2,7 @@
 layout: layouts/insight
 title: NRC + GSA &#58; Space reduction and cost savings in new lease
 date: 2023-01-23
-author: 
+author:
 position:
 image: assets/img/insights-NRC-GSA.jpg
 sortorder: 5
