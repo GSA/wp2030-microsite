@@ -1,7 +1,4 @@
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
-
 module.exports = (eleventyConfig) => {
-  eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addShortcode("feature", (headingText, actionText, actionUrl, imageUrl) => {
     const filteredImageUrl = eleventyConfig.getFilter("url")(imageUrl);
     const filteredActionUrl = eleventyConfig.getFilter("url")(actionUrl);
@@ -19,9 +16,8 @@ module.exports = (eleventyConfig) => {
     return `<ul class="usa-icon-list">${content}</ul>`;
   });
 
-  eleventyConfig.addShortcode("iconListItem", async (classes, icon, text) => {
+  eleventyConfig.addShortcode("iconListItem", (classes, icon, text) => {
     const iconUrl = eleventyConfig.getFilter("url")(`/assets/uswds/img/sprite.svg#${icon}`);
-    const { renderTemplate } = eleventyConfig.javascriptFunctions;
     return `<li class="usa-icon-list__item">
               <div class="usa-icon-list__icon ${classes}">
                 <svg class="usa-icon" aria-hidden="true" role="img">
@@ -29,7 +25,7 @@ module.exports = (eleventyConfig) => {
                 </svg>
               </div>
               <div class="usa-icon-list__content">
-                ${await renderTemplate(text, "md")}
+                ${text}
               </div>
             </li>`;
   });
