@@ -1,6 +1,7 @@
 ---
 layout: layouts/insight
 title: USAID + GSA &#58; Consolidating space to drive cost avoidance
+subtitle:  Two-headquarter solution comes into focus for U.S. Agency for International Development
 date: 2023-01-23
 author:
 position:
