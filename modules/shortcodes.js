@@ -4,7 +4,7 @@ module.exports = (eleventyConfig) => {
     const filteredActionUrl = eleventyConfig.getFilter("url")(actionUrl);
     return `<section class="usa-hero padding-y-8" style="background-image: url(${filteredImageUrl})">
               <div class="grid-container">
-                <h1 class="usa-hero__heading">
+                <h1 class="usa-hero__heading grid-col-8">
                   <span class="usa-hero__heading--alt">${headingText}</span>
                 </h1>
                 <a class="usa-button" href="${filteredActionUrl}">${actionText}</a>
