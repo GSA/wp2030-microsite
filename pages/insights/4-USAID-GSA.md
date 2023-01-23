@@ -16,9 +16,9 @@ tags: insights
 
 ## Seven disparate spaces in one metro area
 
-A decade ago, the U.S. Agency for International Development’s 4,000 headquarters personnel were spread across seven Washington, DC, and Virginia locations in  in leased office spaces, one of which was a warehouse). Beyond the geographic separation, USAID’s flagship space at the Ronald Reagan Building was showing its age and making the wrong first impression.
+A decade ago, the U.S. Agency for International Development’s 4,000 headquarters personnel were spread across seven Washington, DC, and Virginia locations in leased office spaces, one of which was a warehouse. Beyond the geographic separation, USAID’s flagship space at the Ronald Reagan Building was showing its age and making the wrong first impression.
 
-“The unrenovated parts of our offices looked just like they did in 1995,” said Tony Bennett, chief of the Headquarters Management Division at USAID, during this summer’s 2022 PBS Customer Forum. “We would have applicants interviewing in these spaces, and they would see the old fabric cubicles … and worn-out carpets.” But Bennett and his USAID colleagues saw an opportunity in this insufficient space.
+“The unrenovated parts of our offices looked just like they did in 1995,” said Tony Bennett, chief of the Headquarters Management Division at USAID, during this <a href="https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-forums" target="_blank">summer’s 2022 PBS Customer Forum.</a> “We would have applicants interviewing in these spaces, and they would see the old fabric cubicles … and worn-out carpets.” But Bennett and his USAID colleagues saw an opportunity in this insufficient space.
 
 While the condition of the office space eased initial buy-in for a renovation, Bennett and his team saw it as an impetus for additional change. “We wanted to get to a two-headquarter solution and improve our utilization of space,” he said. “We wanted to fully modernize our space, to make sure our offices were state-of-the-art — including IT and security. We also put an emphasis on ergonomics and wellness. We wanted to ensure USAID’s offices were modern and relevant for years to come.”
 
@@ -36,9 +36,9 @@ The pilot was so well received that USAID soon renovated its remaining space on 
 
 In 2015, USAID was ready to commit fully to the two-headquarter solution: consolidating its seven DC–area locations into two, and designing both to accommodate current and future mission needs. Bennett and his team codified USAID’s plans in a real estate framework known as the Washington Real Estate Strategy. Part of this strategy involved directly engaging office personnel through a team called Space Matters. This group has worked with USAID’s facilities team for the past seven years.
 
-Additionally, GSA maintained strong lines of communication with USAID as its strategy moved forward. “In the early phases of the project, our goal was to develop a solution-based, proactive culture across all stakeholders,” said Nadiyah Scarlett, capital projects division director of a regional Design and Construction Division, and one of several GSA workplace personnel who managed USAID’ ‘s consolidation. This collaboration, Scarlett explained, facilitated decision- making and kept the project on track.
+Additionally, GSA maintained strong lines of communication with USAID as its strategy moved forward. “In the early phases of the project, our goal was to develop a solution-based, proactive culture across all stakeholders,” said Nadiyah Scarlett, capital projects division director of a regional Design and Construction Division, and one of several GSA workplace personnel who managed USAID’s consolidation. This collaboration, Scarlett explained, facilitated decision-making and kept the project on track.
 
 As consolidation planning and design continued, the GSA team established weekly progress meetings with key stakeholders, including USAID’s high-level leadership, representatives from impacted groups such as information technology and security, and contractors. “These collaborative customer meetings are very helpful,” Scarlett said. “I believe they have been integral to the success of the project.”
 
-This article was originally published in the October 2022 <a href="https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1050" target="_blank"> Workscape newsletter. </a>
+This article was originally published in the October 2022 <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/330e523" target="_blank"> Workscape newsletter. </a>
 
