@@ -32,7 +32,7 @@ What they disliked:
 - Noisy common work areas.
 - Security concerns for laptop/federal equipment (could not leave unattended - even for breaks).
 - Lack of affordable/convenient parking, and;
-- Commute to site (same as federal offices)
+- Commute to site (same as federal offices).
 
 <b>What is coworking?</b>
 
