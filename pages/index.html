@@ -31,7 +31,8 @@ hero:
       <div class="flex-column">
       <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}">
         <img
-        src="{{ insight.data.image | url }}"
+        src="{{ insight.data.image.url | url }}"
+        alt="{{insight.data.image.alt}}"
         aria-hidden="true"
         />
       </a>

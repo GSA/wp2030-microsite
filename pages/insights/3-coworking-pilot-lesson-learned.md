@@ -4,7 +4,9 @@ title: Lessons learned from commercial coworking pilot
 date: 2023-01-23
 author: Jeff Woodworth
 position:
-image: /assets/img/insights-lesson-learned.jpg
+image: 
+  url: /assets/img/insights-lesson-learned.jpg
+  alt: People with laptops at a conference table meeting with another team remotely
 sortorder: 3
 permalink: /insights/commercial-coworking-pilot-lessons-learned/
 tags: insights
