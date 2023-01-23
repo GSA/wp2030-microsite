@@ -119,6 +119,29 @@
   }
 }
 
+.wp-insights-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  @include at-media(tablet) {
+    flex-direction: row;
+  }
+}
+
+.wp-insights-heading__header {
+  @include at-media(tablet) {
+    margin: 0;
+    align-self: flex-start;
+  }
+}
+
+.wp-insights-heading__button {
+  @include at-media(tablet) {
+    align-self: flex-end;
+  }
+}
+
 blockquote {
   @include u-bg('base-lightest');
   @include u-border-left(1);
@@ -132,7 +155,7 @@ blockquote {
 }
 
 hr {
-  @include u-margin-y(8);
+  @include u-margin-y(6);
   @include u-border(0);
   @include u-border-top('1px');
   @include u-border-color('base-light');
