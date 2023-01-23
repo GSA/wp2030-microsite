@@ -55,6 +55,14 @@
   justify-content: center;
 }
 
+.usa-nav__primary > .usa-nav__primary-item > a {
+  @include u-text('base-darkest');
+}
+
+.usa-nav__primary > .usa-nav__primary-item > a.usa-current {
+  @include u-text('primary');
+}
+
 .wp-header__secondary {
   bottom: 4.8rem;
 }
