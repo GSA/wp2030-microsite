@@ -3,7 +3,7 @@ layout: layouts/insight
 title: Lessons learned from commercial coworking pilot
 date: 2023-01-23
 author: Jeff Woodworth
-position:
+position: Client Communication Specialist
 image: 
   url: /assets/img/insights-lesson-learned.jpg
   alt: People with laptops at a conference table meeting with another team remotely
@@ -15,6 +15,7 @@ tags: insights
 
 
 Federal employees in Denver, San Francisco and Washington, D.C. participated in a Commercial Coworking trial week to get a better understanding of how the concept works.
+
 The lessons learned from opportunities like this one are invaluable and these ‘kick the tires’ experiences help ensure that GSA’s solutions are useful. GSA will also provide aggregated feedback to industry in efforts to help foster innovations that meet government needs.
 
 More than 30 agencies participated including the U.S. Department of State, U.S. Department of Interior and the U.S. Department of Homeland Security. As GSA continues to help shape what innovative work spaces and practices will look like, we’re sharing some of the feedback we received in a survey following the weeklong coworking pilot.
@@ -37,4 +38,6 @@ What they disliked:
 <b>What is coworking?</b>
 
 Coworking is an arrangement in which workers of different organizations share office space, allowing cost-savings and convenience through the use of common infrastructures such as equipment, utilities and receptionist and custodial services.
+
 Learn about GSA’s coworking offerings in both [commercial and federally]({{ '/offerings/commercial-coworking/' | url }}) owned space.
+
