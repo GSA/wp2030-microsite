@@ -63,6 +63,10 @@
   @include u-text('primary');
 }
 
+.wp-header__secondary {
+  bottom: 4.8rem;
+}
+
 .wp-breadcrumb {
   @include u-bg('base-lightest');
 
