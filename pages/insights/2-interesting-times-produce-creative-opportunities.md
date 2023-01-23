@@ -13,7 +13,6 @@ tags: insights
 
 ---
 
-
 The workplace conversation always brings me back to a few quotes I have encountered over the years, which continue to resonate today. The first is of unknown origin. But one thing is for certain: it is a curse that sounds like a blessing.
 
 __*“May you live in interesting times.”*__
@@ -25,17 +24,17 @@ __*“I never created anything, I just remembered things differently.”*__
 
 I think that interesting times should not cause alarm. As civil servants and real estate professionals, we are and continue to be resilient. By focusing on a safer federal workplace, climate change, economic recovery, and diversity, equity, inclusion and accessibility our goals for the future are clear. That said, Neil had it right in that we are not going to come up with some magical workstation, office, or desk…it’s all been done before. Our future actions are predicated on past successes and lived experience. Consider how Robert Propst’s Action Office of the ’60s, transformational as it seemed, was really an evolution of the open office the Schnelles designed in the ’50s and a variation of desks that well predated that.
 
-__*“The stone age didn’t end because we ran out of stones.  It ended because better technologies were developed” attributed to Don Huberts*__
+__*“The stone age didn’t end because we ran out of stones.  It ended because better technologies were developed”*__ _—attributed to Don Huberts_
 
 We are in transformational times and that means we will come out of this in a different state.  Don’t fear that but embrace it.  Leverage technology.  Drive technology providers to help solve our needs and serve and enable our missions.
 
-__*10 percent technology, 90 percent sociology*__
+## 10 percent technology, 90 percent sociology
 
 Technology, as we have seen in recent years, responds quickly to perceived gaps in the marketplace, but we need to be deliberate. Technology for technology's sake is not the answer. When Building Information Modeling debuted, the industry was captivated by the three dimensionality and “coolness” of the product. When it came down to it, however, the technology was a tool that brought the right people together to have the right conversations.
 
-GSA’s Center for Workplace Strategy is exploring the convergence of technology, conversation, and people in our forthcoming Workplace Innovation Lab. This will be a space where industry partners try out leading-edge offerings in furniture, wellness, accessibility, and technology. In that spirit of collaboration, we look to our federal colleagues to use this space and provide feedback. We can all get better together.
+GSA’s Center for Workplace Strategy is exploring the convergence of technology, conversation, and people in our Workplace Innovation Lab. This is a space where industry partners try out leading-edge offerings in furniture, wellness, accessibility, and technology. In that spirit of collaboration, we look to our federal colleagues to use this space and provide feedback. We can all get better together.
 
-__*Workplace is about bringing together the right people for the right conversation*__
+## Workplace is about bringing together the right people for the right conversation
 
 Whether strategizing the return to facilities, improving hybrid work, or making advances toward gender-neutral facilities, our workplace efforts are about people. We need to be agile when responding to constantly changing inputs, and as we all know, limited funding requires solutions to be adjusted at  low or no cost to respond to emerging needs. These important factors are guiding the development and implementation of critical programs like our Workplace 2030 effort.
 
