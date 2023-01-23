@@ -34,7 +34,7 @@ WIFM can help you discover the potential benefits of increased telework levels i
 
 ## Download WIFM
 
-The free WIFM tool (Excel) is available for download by federal employees.
+The free [WIFM tool](https://public.govdelivery.com/accounts/USGSA/signup/34664) (Excel) is available for download by federal employees.
 
 ## Learn more
 
