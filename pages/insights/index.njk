@@ -21,7 +21,7 @@ hero:
     <div class="grid-container padding-top-205">
       <div class="grid-row grid-gap">
       {% for insight in collections.insights | sort(attribute='sortorder') %}
-        <div class="tablet:grid-col-4 margin-y-1">
+        <div class="tablet:grid-col-4 margin-y-1 padding-bottom-6">
           <div class="flex-column">
           <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}">
             <img
