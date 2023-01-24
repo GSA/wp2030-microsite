@@ -29,7 +29,7 @@ hero:
   {% for insight in collections.insights.slice(0, 3) %}
     <div class="tablet:grid-col-4">
       <div class="flex-column">
-      <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}">
+      <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}" aria-label="link to {{ insight.data.title }}">
         <img
         src="{{ insight.data.image.url | url }}"
         alt="{{insight.data.image.alt}}"
