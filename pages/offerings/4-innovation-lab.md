@@ -18,7 +18,7 @@ The lab offers shared collaboration spaces, conference rooms, and office space, 
 
 The lab lets your agency try new technology and furniture options from multiple vendors before purchasing. Technology includes products that enhance your employees’ hybrid experience, promote health and wellness, and support the federal government’s commitment toward a net zero carbon emissions operation.
 
-> “Cannot wait to sell this broadly to teams—what a great benefit!” –Anonymous survey respondent
+> “Cannot wait to sell this broadly to teams—what a great benefit!” –Survey respondent
 
 ## Test out our space as your workspace
 
