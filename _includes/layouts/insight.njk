@@ -6,11 +6,11 @@ breadcrumb:
     href: /insights/
 ---
 
-  <div class="grid-container wp-post tablet:grid-col-6">
+  <div class="grid-container  wp-post tablet:grid-col-6">
     <div class="usa-in-page-nav-container">
       <main id="main-content">
-    
-          <h1 class="title">{{title | safe }}</h1>
+        <div class="usa-prose">
+          <h1>{{title | safe }}</h1>
           {%- if subtitle -%}
           <h2 class="text-base-darker"> {{ subtitle |safe}}</h2>
           {%- endif -%}
@@ -36,7 +36,7 @@ breadcrumb:
               style="object-fit: cover;"
             />
             {{ content | safe }}
-  
+      <div>
       </main>
     </div>
    
