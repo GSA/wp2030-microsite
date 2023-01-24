@@ -4,7 +4,7 @@ title: Return to office best practices
 date: 2023-01-23
 author: Nina Albert
 position: PBS Commissioner
-image: 
+image:
   url: /assets/img/insights-best-practice.jpg
   alt: A person working on a laptop in an office booth next to a teleconference monitor
 sortorder: 1
@@ -25,13 +25,9 @@ A few best practices have emerged:
 2. **Help managers establish new norms.** Supervisors should develop norms to accommodate both telework and in-person work effectively—and they should get feedback from their team on building and continuously iterating on these norms. Some possible things to consider:
 
     * Are there core working hours?
-
     * If people are spread across multiple time zones, what are the best times for holding meetings?
-
     * Are there common days people will be in the office together?
-
     * What do we do collaboratively or as individuals?
-
     * How do we want to organize and share our work with each other?
 
 3. **Facilitate hybrid work by being thoughtful about space and technology.** Make it easy for a hybrid team to collaborate—have video teleconferencing equipment easily accessible in your buildings, have a designated notetaker so a remote participant can easily follow along with the meeting, and ensure hybrid meetings have a moderator to watch if remote participants come off mute or raise their virtual hand to participate in a discussion.
