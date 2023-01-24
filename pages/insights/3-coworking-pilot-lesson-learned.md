@@ -21,8 +21,6 @@ The lessons learned from opportunities like this one are invaluable and these �
 More than 30 agencies participated including the U.S. Department of State, U.S. Department of Interior and the U.S. Department of Homeland Security. As GSA continues to help shape what innovative work spaces and practices will look like, we’re sharing some of the feedback we received in a survey following the weeklong coworking pilot.
 
 What participants liked:
-
-
 - Ability to work alongside employees from other federal agencies.
 - Energizing and motivational atmosphere.
 - Space is more modern than federal space, and;
@@ -35,9 +33,8 @@ What they disliked:
 - Lack of affordable/convenient parking, and;
 - Commute to site (same as federal offices).
 
-<b>What is coworking?</b>
+## What is coworking?
 
 Coworking is an arrangement in which workers of different organizations share office space, allowing cost-savings and convenience through the use of common infrastructures such as equipment, utilities and receptionist and custodial services.
 
 Learn about GSA’s coworking offerings in both [commercial and federally owned]({{ '/offerings/commercial-coworking/' | url }}) space.
-
