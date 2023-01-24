@@ -21,7 +21,7 @@ Allison Azevedo, Deputy Commissioner for the Public Buildings Service (PBS) open
 
 “Workplace 2030 is the next chapter in federal workplace innovation,” said Azevedo. “It was launched in the fall of 2020 as an effort to build on the shared pandemic experiences of 100 experts across 18 agencies and the private sector to imagine future, technology-leveraged work scenarios that prepare for new work realities post-pandemic and ultimately will continue to improve mission delivery.”
 
-“We took your visioning and input, and we spent the last two years researching and developing plans, tools and services and putting in place contracts – all to help you, our customer agencies begin to solve the future of federal work puzzle,” she continued.
+“We took your visioning and input, and we spent the last two years researching and developing plans, tools and services and putting in place contracts—all to help you, our customer agencies begin to solve the future of federal work puzzle,” she continued.
 
 Nina Albert, PBS Commissioner, took the stage to present on industry trends and strategies for the workforce.
 

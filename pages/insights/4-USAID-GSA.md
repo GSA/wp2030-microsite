@@ -21,7 +21,7 @@ A decade ago, the U.S. Agency for International Development’s 4,000 headquarte
 
 “The unrenovated parts of our offices looked just like they did in 1995,” said Tony Bennett, chief of the Headquarters Management Division at USAID, during this <a href="https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-forums" target="_blank">summer’s 2022 PBS Customer Forum.</a> “We would have applicants interviewing in these spaces, and they would see the old fabric cubicles … and worn-out carpets.” But Bennett and his USAID colleagues saw an opportunity in this insufficient space.
 
-While the condition of the office space eased initial buy-in for a renovation, Bennett and his team saw it as an impetus for additional change. “We wanted to get to a two-headquarter solution and improve our utilization of space,” he said. “We wanted to fully modernize our space, to make sure our offices were state-of-the-art — including IT and security. We also put an emphasis on ergonomics and wellness. We wanted to ensure USAID’s offices were modern and relevant for years to come.”
+While the condition of the office space eased initial buy-in for a renovation, Bennett and his team saw it as an impetus for additional change. “We wanted to get to a two-headquarter solution and improve our utilization of space,” he said. “We wanted to fully modernize our space, to make sure our offices were state-of-the-art—including IT and security. We also put an emphasis on ergonomics and wellness. We wanted to ensure USAID’s offices were modern and relevant for years to come.”
 
 ## GSA as a ‘model for change’
 
@@ -35,7 +35,7 @@ While there was organizational buy-in for USAID to renovate its space, the pilot
 
 The pilot was so well received that USAID soon renovated its remaining space on the seventh floor to include a state-of-the-art operations center, sensitive compartmented information facility, and other classified areas with an open plan.
 
-In 2015, USAID was ready to commit fully to the two-headquarter solution: consolidating its seven DC–area locations into two, and designing both to accommodate current and future mission needs. Bennett and his team codified USAID’s plans in a real estate framework known as the Washington Real Estate Strategy. Part of this strategy involved directly engaging office personnel through a team called Space Matters. This group has worked with USAID’s facilities team for the past seven years.
+In 2015, USAID was ready to commit fully to the two-headquarter solution: consolidating its seven DC-area locations into two, and designing both to accommodate current and future mission needs. Bennett and his team codified USAID’s plans in a real estate framework known as the Washington Real Estate Strategy. Part of this strategy involved directly engaging office personnel through a team called Space Matters. This group has worked with USAID’s facilities team for the past seven years.
 
 Additionally, GSA maintained strong lines of communication with USAID as its strategy moved forward. “In the early phases of the project, our goal was to develop a solution-based, proactive culture across all stakeholders,” said Nadiyah Scarlett, capital projects division director of a regional Design and Construction Division, and one of several GSA workplace personnel who managed USAID’s consolidation. This collaboration, Scarlett explained, facilitated decision-making and kept the project on track.
 
