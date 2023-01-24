@@ -1,7 +1,7 @@
 /* Site-specific styles and USWDS customizations can go here. */
 .wp-post{
   line-height: 1.5;
-  
+
 }
 .wp-post h1{
   font-size: 2.5rem;
@@ -154,6 +154,12 @@
   @include at-media(tablet) {
     align-self: flex-end;
   }
+}
+
+.wp-home-insights-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
 }
 
 blockquote {
