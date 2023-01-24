@@ -33,3 +33,6 @@ To make a reservation, visit [reservations.wil.gsa.gov](http://reservations.wil.
 To request a tour or learn more about the Workplace Innovation Lab, email [WILTour1800F@gsa.gov](mailto:WILTour1800F@gsa.gov).
 
 For on-site support, contact the Workplace Innovation Lab concierge at [WILConcierge@gsa.gov](mailto:WILConcierge@gsa.gov).
+
+## Learn more
+[Reservation system instructions]({{ '/assets/files/WIL.WPA.Training.pdf' | url }})
