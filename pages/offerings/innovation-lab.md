@@ -35,4 +35,4 @@ To request a tour or learn more about the Workplace Innovation Lab, email [WILTo
 For on-site support, contact the Workplace Innovation Lab concierge at [WILConcierge@gsa.gov](mailto:WILConcierge@gsa.gov).
 
 ## Learn more
-[Reservation system instructions](https://github.com/GSA/wp2030-microsite-new/files/10493343/WIL.WPA.Training.pdf)
+[Reservation system instructions]({{ '/assets/files/WIL.WPA.Training.pdf' | url }})
