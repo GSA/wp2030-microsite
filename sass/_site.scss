@@ -153,12 +153,6 @@
   }
 }
 
-.wp-insights-heading__button {
-  @include at-media(tablet) {
-    align-self: flex-end;
-  }
-}
-
 blockquote {
   @include u-bg('base-lightest');
   @include u-border-left(1);

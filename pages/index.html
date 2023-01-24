@@ -20,14 +20,14 @@ hero:
 <div class="wp-insights-heading">
   <h2 class="wp-insights-heading__header">Latest insights</h2>
 
-  <a href="{{ '/insights/' | url }}" class="usa-button wp-insights-heading__button">Explore all insights</a>
+  <a href="{{ '/insights/' | url }}" class="usa-button display-none tablet:display-inline-block">Explore all insights</a>
 </div>
 
 <p>Learn more about government workplace trends and best practices in workplace strategy.</p>
 
 <div class="grid-row grid-gap">
   {% for insight in collections.insights.slice(0, 3) %}
-    <div class="tablet:grid-col-4">
+    <div class="tablet:grid-col-4 margin-y-3">
       <div class="flex-column">
       <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}" aria-label="link to {{ insight.data.title }}">
         <img
@@ -38,7 +38,7 @@ hero:
         />
       </a>
       </div>
-      <div class="flex-column font-body-md text-semibold">
+      <div class="flex-column font-body-md text-semibold margin-y-1">
         <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
           <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
         </a>
@@ -52,6 +52,8 @@ hero:
     </div>
   {% endfor %}
 </div>
+
+<a href="{{ '/insights/' | url }}" class="usa-button tablet:display-none">Explore all insights</a>
 
 <hr>
 
