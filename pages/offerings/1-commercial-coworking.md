@@ -1,6 +1,6 @@
 ---
 layout: layouts/offering
-title: Commercial Coworking
+title: Commercial coworking
 tagline: Cowork in commercial space
 description: Provide your employees with short-term access to shared commercial office spaces where they can collaborate with teammates or other agencies
 listLinkText: Read more about commercial coworking
@@ -8,7 +8,7 @@ permalink: /offerings/commercial-coworking/
 tags: offerings
 ---
 
-# Commercial Coworking
+# Commercial coworking
 
 {% banner "/assets/img/offering-commercial-coworking-top.jpg", "Photograph of an open office space, with several individuals sitting or standing at various workspaces" %}
 
@@ -25,8 +25,7 @@ Our contract provides you access to short-term, on-demand commercial coworking s
 * Swing space (example: delayed construction project).
 * Pilots (example: testing a coworking program).
 
-> “[I liked the] ability to work alongside non-federal workers and fed workers from other agencies.”  
-> – Anonymous survey respondent
+> “[I liked the] ability to work alongside non-federal workers and fed workers from other agencies.” –Survey respondent
 
 ## Commercial coworking space
 
