@@ -23,7 +23,7 @@ These are undeniably interesting times. But interesting and uncertain times ofte
 
 I think that interesting times should not cause alarm. As civil servants and real estate professionals, we are and continue to be resilient. By focusing on a safer federal workplace, climate change, economic recovery, and diversity, equity, inclusion and accessibility our goals for the future are clear. That said, Neil had it right in that we are not going to come up with some magical workstation, office, or desk…it’s all been done before. Our future actions are predicated on past successes and lived experience. Consider how Robert Propst’s Action Office of the ’60s, transformational as it seemed, was really an evolution of the open office the Schnelles designed in the ’50s and a variation of desks that well predated that.
 
-> “The stone age didn’t end because we ran out of stones.  It ended because better technologies were developed” _—attributed to Don Huberts_
+> “The stone age didn’t end because we ran out of stones. It ended because better technologies were developed” –attributed to Don Huberts
 
 We are in transformational times and that means we will come out of this in a different state.  Don’t fear that but embrace it.  Leverage technology.  Drive technology providers to help solve our needs and serve and enable our missions.
 ## 10 percent technology, 90 percent sociology
