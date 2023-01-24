@@ -1,6 +1,6 @@
 ---
 layout: layouts/insight
-title: USAID + GSA &#58; Consolidating space to drive cost avoidance
+title: USAID + GSA&#58; Consolidating space to drive cost avoidance
 subtitle:  Two-headquarter solution comes into focus for U.S. Agency for International Development
 date: 2023-01-23
 author:
@@ -19,7 +19,7 @@ tags: insights
 
 A decade ago, the U.S. Agency for International Development’s 4,000 headquarters personnel were spread across seven Washington, DC, and Virginia locations in leased office spaces, one of which was a warehouse. Beyond the geographic separation, USAID’s flagship space at the Ronald Reagan Building was showing its age and making the wrong first impression.
 
-“The unrenovated parts of our offices looked just like they did in 1995,” said Tony Bennett, chief of the Headquarters Management Division at USAID, during this <a href="https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-forums" target="_blank">summer’s 2022 PBS Customer Forum.</a> “We would have applicants interviewing in these spaces, and they would see the old fabric cubicles … and worn-out carpets.” But Bennett and his USAID colleagues saw an opportunity in this insufficient space.
+“The unrenovated parts of our offices looked just like they did in 1995,” said Tony Bennett, chief of the Headquarters Management Division at USAID, during this <a href="https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-forums"">summer’s 2022 PBS Customer Forum</a>. “We would have applicants interviewing in these spaces, and they would see the old fabric cubicles … and worn-out carpets.” But Bennett and his USAID colleagues saw an opportunity in this insufficient space.
 
 While the condition of the office space eased initial buy-in for a renovation, Bennett and his team saw it as an impetus for additional change. “We wanted to get to a two-headquarter solution and improve our utilization of space,” he said. “We wanted to fully modernize our space, to make sure our offices were state-of-the-art — including IT and security. We also put an emphasis on ergonomics and wellness. We wanted to ensure USAID’s offices were modern and relevant for years to come.”
 
@@ -41,5 +41,5 @@ Additionally, GSA maintained strong lines of communication with USAID as its str
 
 As consolidation planning and design continued, the GSA team established weekly progress meetings with key stakeholders, including USAID’s high-level leadership, representatives from impacted groups such as information technology and security, and contractors. “These collaborative customer meetings are very helpful,” Scarlett said. “I believe they have been integral to the success of the project.”
 
-This article was originally published in the October 2022 <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/330e523" target="_blank"> Workscape newsletter. </a>
+This article was originally published in the <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/330e523">October 2022 Workscape newsletter</a>.
 
