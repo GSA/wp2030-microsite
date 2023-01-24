@@ -22,11 +22,12 @@ The lab lets your agency try new technology and furniture options from multiple 
 
 ## Test out our space as your workspace
 
-Authorized federal employees and teams may reserve times through our reservation system to work in the lab for a few hours or all day.
+Authorized federal employees and teams may reserve times through our [reservation system](http://reservations.wil.gsa.gov/) to work in the lab for a few hours or all day.
 
 To inform future federal workplace design and operation, we will collect real-time data through the lab’s various sensors, reservations, and post-occupancy surveys. We will also compile feedback and share with industry to help foster innovations that meet government needs.
 
 ## Get in touch
+To make a reservation, visit [reservations.wil.gsa.gov](http://reservations.wil.gsa.gov/).
 
 To request a tour or learn more about the Workplace Innovation Lab, email [WILTour1800F@gsa.gov](mailto:WILTour1800F@gsa.gov).
 
