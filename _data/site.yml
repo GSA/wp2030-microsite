@@ -43,7 +43,7 @@ identifier:
     - text: Performance reports
       href: https://www.gsa.gov/reference/reports/budget-performance
     - text: Privacy policy
-      href: https://www.gsa.gov/website-information/website-policies
+      href: https://www.gsa.gov/website-information/website-policies#privacy
 
 footer:
   enabled: true
