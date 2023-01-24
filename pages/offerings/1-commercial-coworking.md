@@ -26,7 +26,7 @@ Our contract provides you access to short-term, on-demand commercial coworking s
 * Pilots (example: testing a coworking program).
 
 > “[I liked the] ability to work alongside non-federal workers and fed workers from other agencies.”  
-> – Anonymous survey respondent
+> – Survey respondent
 
 ## Commercial coworking space
 
