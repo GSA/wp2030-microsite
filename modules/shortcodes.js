@@ -39,11 +39,17 @@ module.exports = (eleventyConfig) => {
     return `<div class="grid-row grid-gap">${content}</div>`;
   });
 
-  eleventyConfig.addPairedShortcode("miniGalleryItem", (content, imageUrl, imageAlt) => {
-    const filteredImageUrl = eleventyConfig.getFilter("url")(imageUrl);
-    return `<div class="tablet:grid-col-4">
-              <img src="${filteredImageUrl}" alt="${imageAlt}" class="height-full width-full maxh-card" style="object-fit: cover;">
-              <div>${content}</div>
-            </div>`;
+  eleventyConfig.addPairedShortcode("miniGalleryItem", (content, args) => {
+    const { src, alt, link } = args;
+    const filteredImageUrl = eleventyConfig.getFilter("url")(src);
+    let html = `<div class="tablet:grid-col-4">`;
+    html += `<div>`;
+    html += link ? `<a href="${src}">` : "";
+    html += `<img src="${filteredImageUrl}" alt="${alt}" class="add-aspect-4x3">`;
+    html += link ? `</a>` : "";
+    html += content ? `<div>${content}</div>` : "";
+    html += `</div>`;
+    html += `</div>`;
+    return html;
   });
 };
