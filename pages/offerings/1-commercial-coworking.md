@@ -78,7 +78,7 @@ Workspace options include:
 
 {% iconList %}
   {% iconListItem "text-green", "check_circle", "For agencies that need temporary access to commercial coworking spaces. Agencies occupy only the space they need to accomplish their mission and promote responsible use of taxpayer dollars." %}
-  {% iconListItem "text-green", "check_circle", "A flexible, short–term agreement for federal agencies to gain access to a fully furnished, open concept, coworking office space in a commercial property." %}
+  {% iconListItem "text-green", "check_circle", "A flexible, short-term agreement for federal agencies to gain access to a fully furnished, open concept, coworking office space in a commercial property." %}
   {% iconListItem "text-green", "check_circle", "Quick procurement timelines and flexibility. No need to design, lease, <a href='https://www.gsa.gov/reference/glossary?gsaredirect=glossary#build-out'>build-out</a>, and furnish space." %}
   {% iconListItem "text-green", "check_circle", "For agencies that want to test new ways of working, foster innovation, share resources, promote equity, and enhance adaptability." %}
 {% endiconList %}
