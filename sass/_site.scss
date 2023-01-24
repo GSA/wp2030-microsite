@@ -1,5 +1,19 @@
 /* Site-specific styles and USWDS customizations can go here. */
-
+.wp-post{
+  line-height: 1.5;
+  
+}
+.wp-post h1{
+  font-size: 2.5rem;
+  font-weight:700;
+  line-height: 1.1;
+}
+.wp-post h2{
+  margin-top: 1.5em;
+  font-size: 2rem;
+  font-weight:700;
+  line-height: 1.1;
+}
 .wp-header__logo {
   height: 100%;
   margin-left: 0;

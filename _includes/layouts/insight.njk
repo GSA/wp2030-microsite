@@ -6,38 +6,40 @@ breadcrumb:
     href: /insights/
 ---
 
-<div class="grid-container">
-
-    <main id="main-content">
-      <div class="usa-prose">
-      <h1 class="title">{{title | safe }}</h1>
-      {%- if subtitle -%}
-       <h2 class="text-base-darker"> {{ subtitle |safe}}</h2>
-       {%- endif -%}
-        <span class="text-semibold font-serif-2xs">
-        {%- if author -%}
-        By {{ author}}
-        {%- endif -%}
-        {%- if position  -%}
-        , {{position}}
-        {%- endif -%}
-        </span>
-        <div class="text-base">
-          <div class="margin-y-1 font-sans-3xs">
-             {{ date | postDate }}
-          </div>
-        </div>
-
-      <img
-          src="{{image.url | url}}"
-          aria-hidden="true"
-          class="width-mobile-lg"
-          alt="{{image.alt}}"
-        />
-
+  <div class="grid-container wp-post tablet:grid-col-6">
+    <div class="usa-in-page-nav-container">
+      <main id="main-content">
     
-        {{ content | safe }}
-      </div>
-    </main>
+          <h1 class="title">{{title | safe }}</h1>
+          {%- if subtitle -%}
+          <h2 class="text-base-darker"> {{ subtitle |safe}}</h2>
+          {%- endif -%}
+            <span class="text-semibold font-sans-2xs">
+            {%- if author -%}
+            By {{ author}}
+            {%- endif -%}
+            {%- if position  -%}
+            , {{position}}
+            {%- endif -%}
+            </span>
+            <div class="text-base">
+              <div class="margin-y-1 font-sans-3xs">
+                {{ date | postDate }}
+              </div>
+            </div>
 
+            <img
+              src="{{image.url | url}}"
+              aria-hidden="true"
+              class="width-full maxh-mobile"
+              alt="{{image.alt}}"
+              style="object-fit: cover;"
+            />
+            {{ content | safe }}
+  
+      </main>
+    </div>
+   
 </div>
+
+
