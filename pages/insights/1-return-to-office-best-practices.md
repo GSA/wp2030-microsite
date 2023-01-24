@@ -1,6 +1,6 @@
 ---
 layout: layouts/insight
-title: Return to Office strategies
+title: Return to office strategies
 date: 2023-01-23
 author: Nina Albert
 position: PBS Commissioner
