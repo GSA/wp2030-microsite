@@ -6,6 +6,7 @@ description: Explore design, technology, and furniture options and reserve space
 listLinkText: Read more about the Workplace Innovation Lab
 permalink: /offerings/innovation-lab/
 tags: offerings
+order: 10
 ---
 
 # Workplace Innovation Lab

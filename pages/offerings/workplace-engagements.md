@@ -6,6 +6,7 @@ description: Evaluate human, space, and technology needs holistically
 listLinkText: Read more about workplace engagement services
 permalink: /offerings/workplace-engagements/
 tags: offerings
+order: 20
 ---
 
 # Workplace engagement services

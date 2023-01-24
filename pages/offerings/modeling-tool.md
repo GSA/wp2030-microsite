@@ -13,6 +13,7 @@ slugs:
   - wifm
 permalink: /offerings/{{ slug }}/
 tags: offerings
+order: 40
 ---
 
 # Workplace Investment and Feasibility Modeling Tool
