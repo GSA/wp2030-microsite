@@ -1,6 +1,6 @@
 ---
 layout: layouts/offering
-title: Workplace Investment and Feasibility Modeling Tool
+title: Workplace Investment and Feasibility Modeling tool
 tagline: Model your workplace using our tool
 description: Forecast your office, desk, and space needs with our workplace investment and feasibility modeling (WIFM) tool
 listLinkText: Read more about the WIFM tool
@@ -16,7 +16,7 @@ tags: offerings
 sortorder: 40
 ---
 
-# Workplace Investment and Feasibility Modeling Tool
+# Workplace Investment and Feasibility Modeling tool
 
 WIFM is a customizable tool federal agencies can use to:
 
