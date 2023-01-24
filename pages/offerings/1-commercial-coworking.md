@@ -25,8 +25,7 @@ Our contract provides you access to short-term, on-demand commercial coworking s
 * Swing space (example: delayed construction project).
 * Pilots (example: testing a coworking program).
 
-> “[I liked the] ability to work alongside non-federal workers and fed workers from other agencies.”  
-> – Survey respondent
+> “[I liked the] ability to work alongside non-federal workers and fed workers from other agencies.” –Survey respondent
 
 ## Commercial coworking space
 
