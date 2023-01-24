@@ -14,7 +14,7 @@ tags: offerings
 
 ## Provide federal employees with a short-term space solution
 
-To keep up with rapidly changing federal workplace needs, we are tapping into the private sector’s business model for coworking spaces. Federal employees can now also take advantage of shared workspaces in commercial settings to meet your agency’s short-term space needs.
+To keep up with rapidly changing federal workplace needs, we are tapping into the private sector’s business model for coworking spaces. Federal agencies can now also take advantage of shared workspaces in commercial settings to meet short-term space needs.
 
 Through our contract with five commercial vendors, federal agencies have access to commercial coworking spaces in large and small cities across the continental United States.
 
