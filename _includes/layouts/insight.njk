@@ -9,6 +9,7 @@ breadcrumb:
 <div class="grid-container">
 
     <main id="main-content">
+      <div class="usa-prose">
       <h1 class="title">{{title | safe }}</h1>
       {%- if subtitle -%}
        <h2 class="text-base-darker"> {{ subtitle |safe}}</h2>
@@ -34,7 +35,7 @@ breadcrumb:
           alt="{{image.alt}}"
         />
 
-      <div class="usa-prose">
+    
         {{ content | safe }}
       </div>
     </main>
