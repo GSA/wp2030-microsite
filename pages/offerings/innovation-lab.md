@@ -27,6 +27,10 @@ Authorized federal employees and teams may reserve times through our [reservatio
 
 To inform future federal workplace design and operation, we will collect real-time data through the lab’s various sensors, reservations, and post-occupancy surveys. We will also compile feedback and share with industry to help foster innovations that meet government needs.
 
+## View photo gallery
+
+{% gallery name="innovationlab" %}{% endgallery %}
+
 ## Get in touch
 To make a reservation, visit [reservations.wil.gsa.gov](http://reservations.wil.gsa.gov/).
 

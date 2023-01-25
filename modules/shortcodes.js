@@ -35,15 +35,33 @@ module.exports = (eleventyConfig) => {
     return `<img src="${filteredImageUrl}" alt="${imageAlt}" class="width-full maxh-card-lg" style="object-fit: cover;">`;
   });
 
-  eleventyConfig.addPairedShortcode("miniGallery", (content) => {
-    return `<div class="grid-row grid-gap">${content}</div>`;
+  eleventyConfig.addPairedShortcode("gallery", function (content, args) {
+    const { name } = args || {};
+    if (name && this.ctx.galleries && this.ctx.galleries[name]) {
+      const gallery = this.ctx.galleries[name];
+      const galleryItem = eleventyConfig.javascriptFunctions.galleryItem;
+      gallery.forEach(photo => {
+        content += galleryItem(photo.title, {
+          src: photo.src || "",
+          alt: photo.alt || "",
+          link: true
+        });
+      });
+    }
+    return `<div class="grid-row grid-gap wp-mini-gallery">${content}</div>`;
   });
 
-  eleventyConfig.addPairedShortcode("miniGalleryItem", (content, imageUrl, imageAlt) => {
-    const filteredImageUrl = eleventyConfig.getFilter("url")(imageUrl);
-    return `<div class="tablet:grid-col-4">
-              <img src="${filteredImageUrl}" alt="${imageAlt}" class="height-full width-full maxh-card" style="object-fit: cover;">
-              <div>${content}</div>
-            </div>`;
+  eleventyConfig.addPairedShortcode("galleryItem", (content, args) => {
+    const { src, alt, link } = args || {};
+    const filteredImageUrl = eleventyConfig.getFilter("url")(src);
+    let html = `<div class="tablet:grid-col-4 margin-y-2">`;
+    html += `<div>`;
+    html += link ? `<a href="${src}">` : "";
+    html += `<img src="${filteredImageUrl}" alt="${alt}" class="add-aspect-4x3">`;
+    html += link ? `</a>` : "";
+    html += content ? `<div>${content}</div>` : "";
+    html += `</div>`;
+    html += `</div>`;
+    return html;
   });
 };
