@@ -20,9 +20,9 @@ hero:
       {% for offering in collections.offerings | sort(attribute='data.sortorder') %}
         <div class="tablet:grid-col-6">
           <div class="border-top border-base-light">
-            <h3 class="font-heading-lg">
+            <h2 class="font-heading-lg">
               <a class="usa-link text-no-underline" href="{{ offering.url | url }}">{{ offering.data.tagline }}</a>
-            </h3>
+            </h2>
             <p>
               {{ offering.data.description }}
             </p>
