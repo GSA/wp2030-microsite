@@ -44,7 +44,8 @@ module.exports = (eleventyConfig) => {
         content += galleryItem(photo.title, {
           src: photo.src || "",
           alt: photo.alt || "",
-          link: true
+          link: true,
+          lightbox: true
         });
       });
     }
@@ -52,11 +53,15 @@ module.exports = (eleventyConfig) => {
   });
 
   eleventyConfig.addPairedShortcode("galleryItem", (content, args) => {
-    const { src, alt, link } = args || {};
+    const { src, alt, link, lightbox } = args || {};
     const filteredImageUrl = eleventyConfig.getFilter("url")(src);
-    let html = `<div class="tablet:grid-col-4 margin-y-2">`;
+    const lightboxData = lightbox ? `
+      data-fslightbox
+      data-alt="${alt}"
+    ` : "";
+    let html = `<div class="grid-col-4 margin-y-2">`;
     html += `<div>`;
-    html += link ? `<a href="${src}">` : "";
+    html += link ? `<a href="${src}" ${lightboxData}>` : "";
     html += `<img src="${filteredImageUrl}" alt="${alt}" class="add-aspect-4x3">`;
     html += link ? `</a>` : "";
     html += content ? `<div>${content}</div>` : "";
