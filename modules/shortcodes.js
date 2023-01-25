@@ -54,7 +54,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPairedShortcode("galleryItem", (content, args) => {
     const { src, alt, link } = args || {};
     const filteredImageUrl = eleventyConfig.getFilter("url")(src);
-    let html = `<div class="tablet:grid-col-4 margin-y-2">`;
+    let html = `<div class="grid-col-4 margin-y-2">`;
     html += `<div>`;
     html += link ? `<a href="${src}">` : "";
     html += `<img src="${filteredImageUrl}" alt="${alt}" class="add-aspect-4x3">`;
