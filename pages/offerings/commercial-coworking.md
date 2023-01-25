@@ -11,7 +11,7 @@ sortorder: 30
 
 # Commercial coworking
 
-{% banner "/assets/img/offering-commercial-coworking-top.jpg", "Photograph of an open office space, with several individuals sitting or standing at various workspaces" %}
+{% banner "/assets/img/offering-commercial-coworking-top.jpg", "An open office space, with several individuals sitting or standing at various workspaces" %}
 
 ## Provide federal employees with a short-term space solution
 
