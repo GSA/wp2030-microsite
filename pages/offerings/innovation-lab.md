@@ -29,8 +29,7 @@ To inform future federal workplace design and operation, we will collect real-ti
 
 ## View photo gallery
 
-{% miniGallery name="innovationlab" %}
-{% endminiGallery %}
+{% gallery name="innovationlab" %}{% endgallery %}
 
 ## Get in touch
 To make a reservation, visit [reservations.wil.gsa.gov](http://reservations.wil.gsa.gov/).

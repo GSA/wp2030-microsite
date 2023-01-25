@@ -35,19 +35,23 @@ module.exports = (eleventyConfig) => {
     return `<img src="${filteredImageUrl}" alt="${imageAlt}" class="width-full maxh-card-lg" style="object-fit: cover;">`;
   });
 
-  eleventyConfig.addPairedShortcode("miniGallery", function (content, args) {
+  eleventyConfig.addPairedShortcode("gallery", function (content, args) {
     const { name } = args || {};
     if (name && this.ctx.galleries && this.ctx.galleries[name]) {
       const gallery = this.ctx.galleries[name];
-      const miniGalleryItem = eleventyConfig.javascriptFunctions.miniGalleryItem;
+      const galleryItem = eleventyConfig.javascriptFunctions.galleryItem;
       gallery.forEach(photo => {
-        content += miniGalleryItem(photo.title, { src: photo.src, alt: photo.alt, link: true });
+        content += galleryItem(photo.title, {
+          src: photo.src || "",
+          alt: photo.alt || "",
+          link: true
+        });
       });
     }
     return `<div class="grid-row grid-gap wp-mini-gallery">${content}</div>`;
   });
 
-  eleventyConfig.addPairedShortcode("miniGalleryItem", (content, args) => {
+  eleventyConfig.addPairedShortcode("galleryItem", (content, args) => {
     const { src, alt, link } = args || {};
     const filteredImageUrl = eleventyConfig.getFilter("url")(src);
     let html = `<div class="tablet:grid-col-4 margin-y-2">`;

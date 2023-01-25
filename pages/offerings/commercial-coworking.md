@@ -48,29 +48,29 @@ Workspace options include:
 
 [Contact our team](#get-in-touch) to discuss commercial coworking locations in your area and how you can set up an on-site visit.
 
-{% miniGallery %}
-  {% miniGalleryItem
+{% gallery %}
+  {% galleryItem
     src="/assets/img/offering-commercial-coworking-expansive.jpg",
     alt="An open office furnished with work tables, chairs, couches, and office supplies" %}
       <strong>Dupont Circle at Expansive</strong>
       <br>1201 Connecticut Ave NW
       <br>Washington, DC 20036
-  {% endminiGalleryItem %}
-  {% miniGalleryItem
+  {% endgalleryItem %}
+  {% galleryItem
     src="/assets/img/offering-commercial-coworking-wework.jpg",
     alt="An open office with a person descending a staircase, a person sitting on a bench working on a laptop, and two people drinking from mugs sitting in armchairs" %}
     <strong>Wells Fargo Center at WeWork</strong>
     <br>1700 Lincoln St
     <br>Denver, CO 80203
-  {% endminiGalleryItem %}
-  {% miniGalleryItem
+  {% endgalleryItem %}
+  {% galleryItem
     src="/assets/img/offering-commercial-coworking-theyard.jpg",
     alt="An open office with three working tables, a person walking through the center of the room, three people seated and working on laptops, and large windows with fall-colored foliage outside" %}
     <strong>Eastern Market at The Yard</strong>
     <br>700 Pennsylvania Ave SE
     <br>Washington, DC 20003
-  {% endminiGalleryItem %}
-{% endminiGallery %}
+  {% endgalleryItem %}
+{% endgallery %}
 
 
 ## Commercial coworking space contract
