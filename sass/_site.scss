@@ -14,15 +14,6 @@
   margin-left: 0;
 }
 
-.wp-guidline {
- 
-  @include at-media(desktop) {
-  // corresponding to padding-x-6 in USWDS
-   padding-left: 48px;
-   padding-right:48px; 
- 
-  }
-}
 .wp-header__logo-image {
   @include u-height('full');
 
