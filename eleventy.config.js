@@ -7,7 +7,9 @@ const customShortcodes = require("./modules/shortcodes");
 const customFilters = require("./modules/filters");
 
 module.exports = function(eleventyConfig) {
-  const pathPrefix = "/";
+  console.log("using BASEURL:", process.env.BASEURL);
+  const pathPrefix = process.env.BASEURL || "/";
+  console.log("using pathPrefix:", pathPrefix);
 
   // Copy assets directory
   eleventyConfig.addPassthroughCopy("assets");
