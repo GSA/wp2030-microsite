@@ -7,7 +7,7 @@ const customShortcodes = require("./modules/shortcodes");
 const customFilters = require("./modules/filters");
 
 module.exports = function(eleventyConfig) {
-  const pathPrefix = process.env.BASEURL || "/";
+  // const pathPrefix = process.env.BASEURL || "/";
 
   // Copy assets directory
   eleventyConfig.addPassthroughCopy("assets");
@@ -37,7 +37,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(customFilters);
 
   return {
-    pathPrefix,
+    // pathPrefix,
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
   };
