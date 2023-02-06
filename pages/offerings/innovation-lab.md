@@ -29,7 +29,7 @@ To inform future federal workplace design and operation, we will collect real-ti
 
 ## View photo gallery
 
-{% gallery name="innovationlab" %}{% endgallery %}
+{% gallery name="innovationlab", maxVisible=3 %}{% endgallery %}
 
 ## Get in touch
 To request a tour or learn more about the Workplace Innovation Lab, email [WILTour1800F@gsa.gov](mailto:WILTour1800F@gsa.gov).
