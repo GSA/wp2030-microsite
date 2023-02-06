@@ -39,3 +39,5 @@ For on-site support, contact the Workplace Innovation Lab concierge at [WILConci
 ## Learn more
 
 https://www.youtube.com/watch?v=-BY-HmsUfoY
+
+[Reservation system instructions]({{ '/assets/files/WIL.WPA.Training.pdf' | url }})
