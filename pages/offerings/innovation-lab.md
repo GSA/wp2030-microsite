@@ -23,7 +23,7 @@ The lab lets your agency try new technology and furniture options from multiple 
 
 ## Test out our space as your workspace
 
-Authorized federal employees and teams may reserve times through our [reservation system](http://reservations.wil.gsa.gov/) to work in the lab for a few hours or all day. Refer to the [reservation system instructions]({{ '/assets/files/WIL.WPA.Training.pdf' | url }}) for more details.
+Authorized federal employees and teams may reserve times through our [reservation system](http://reservations.wil.gsa.gov/) to work in the lab for a few hours or all day. Refer to the [reservation instructions]({{ '/assets/files/WIL.WPA.Training.pdf' | url }}) for more details.
 
 To inform future federal workplace design and operation, we will collect real-time data through the lab’s various sensors, reservations, and post-occupancy surveys. We will also compile feedback and share with industry to help foster innovations that meet government needs.
 
