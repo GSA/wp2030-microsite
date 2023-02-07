@@ -36,32 +36,33 @@ module.exports = (eleventyConfig) => {
   });
 
   eleventyConfig.addPairedShortcode("gallery", function (content, args) {
-    const { name } = args || {};
+    const { name, maxVisible = -1, link = true, lightbox = true } = args || {};
     if (name && this.ctx.galleries && this.ctx.galleries[name]) {
       const gallery = this.ctx.galleries[name];
       const galleryItem = eleventyConfig.javascriptFunctions.galleryItem;
-      gallery.forEach(photo => {
+      gallery.forEach((photo, index) => {
         content += galleryItem(photo.title, {
           src: photo.src || "",
           alt: photo.alt || "",
-          link: true,
-          lightbox: true
+          link,
+          lightbox,
+          hidden: (maxVisible >= 0) && (index > maxVisible - 1)
         });
       });
     }
-    return `<div class="grid-row grid-gap wp-mini-gallery">${content}</div>`;
+    return `<div class="grid-row grid-gap">${content}</div>`;
   });
 
   eleventyConfig.addPairedShortcode("galleryItem", (content, args) => {
-    const { src, alt, link, lightbox } = args || {};
+    const { src, alt, link, lightbox, hidden } = args || {};
     const filteredImageUrl = eleventyConfig.getFilter("url")(src);
     const lightboxData = lightbox ? `
       data-fslightbox
       data-alt="${alt}"
     ` : "";
-    let html = `<div class="grid-col-4 margin-y-2">`;
+    let html = `<div class="grid-col-4 ${hidden ? 'display-none' : 'margin-y-2'}">`;
     html += `<div>`;
-    html += link ? `<a href="${src}" ${lightboxData}>` : "";
+    html += link ? `<a href="${filteredImageUrl}" ${lightboxData}>` : "";
     html += `<img src="${filteredImageUrl}" alt="${alt}" class="add-aspect-4x3">`;
     html += link ? `</a>` : "";
     html += content ? `<div>${content}</div>` : "";
