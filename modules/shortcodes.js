@@ -50,7 +50,7 @@ module.exports = (eleventyConfig) => {
         });
       });
     }
-    return `<div class="grid-row grid-gap wp-mini-gallery">${content}</div>`;
+    return `<div class="grid-row grid-gap">${content}</div>`;
   });
 
   eleventyConfig.addPairedShortcode("galleryItem", (content, args) => {
@@ -62,7 +62,7 @@ module.exports = (eleventyConfig) => {
     ` : "";
     let html = `<div class="grid-col-4 ${hidden ? 'display-none' : 'margin-y-2'}">`;
     html += `<div>`;
-    html += link ? `<a href="${src}" ${lightboxData}>` : "";
+    html += link ? `<a href="${filteredImageUrl}" ${lightboxData}>` : "";
     html += `<img src="${filteredImageUrl}" alt="${alt}" class="add-aspect-4x3">`;
     html += link ? `</a>` : "";
     html += content ? `<div>${content}</div>` : "";
