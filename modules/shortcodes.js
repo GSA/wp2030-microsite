@@ -36,7 +36,7 @@ module.exports = (eleventyConfig) => {
   });
 
   eleventyConfig.addPairedShortcode("gallery", function (content, args) {
-    const { name, maxVisible = -1 } = args || {};
+    const { name, maxVisible = -1, link = true, lightbox = true } = args || {};
     if (name && this.ctx.galleries && this.ctx.galleries[name]) {
       const gallery = this.ctx.galleries[name];
       const galleryItem = eleventyConfig.javascriptFunctions.galleryItem;
@@ -44,8 +44,8 @@ module.exports = (eleventyConfig) => {
         content += galleryItem(photo.title, {
           src: photo.src || "",
           alt: photo.alt || "",
-          link: true,
-          lightbox: true,
+          link,
+          lightbox,
           hidden: (maxVisible >= 0) && (index > maxVisible - 1)
         });
       });
