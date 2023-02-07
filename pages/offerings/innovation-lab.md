@@ -23,9 +23,9 @@ The lab lets your agency try new technology and furniture options from multiple 
 
 ## Test out our space as your workspace
 
-Be one of the first to work in the Workplace Innovation Lab. Federal agency teams and individual employees can work in the lab for an hour to weeks at a time. Enter your official federal government email address below to be alerted when our system is ready to accept reservations for February and beyond.
+Authorized federal employees and teams may reserve times through our [reservation system](http://reservations.wil.gsa.gov/) to work in the lab for a few hours or all day. Refer to the [reservation instructions]({{ '/assets/files/WIL.WPA.Training.pdf' | url }}) for more details.
 
-<script src="https://public.govdelivery.com/assets/Signup.js" data-account-code="USGSA" data-signup-id="35639"></script>
+To inform future federal workplace design and operation, we will collect real-time data through the lab’s various sensors, reservations, and post-occupancy surveys. We will also compile feedback and share with industry to help foster innovations that meet government needs.
 
 ## View photo gallery
 
@@ -35,3 +35,7 @@ Be one of the first to work in the Workplace Innovation Lab. Federal agency team
 To request a tour or learn more about the Workplace Innovation Lab, email [WILTour1800F@gsa.gov](mailto:WILTour1800F@gsa.gov).
 
 For on-site support, contact the Workplace Innovation Lab concierge at [WILConcierge@gsa.gov](mailto:WILConcierge@gsa.gov).
+
+## Learn more
+
+https://www.youtube.com/watch?v=-BY-HmsUfoY
