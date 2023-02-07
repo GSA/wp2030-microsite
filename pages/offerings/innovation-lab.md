@@ -21,7 +21,7 @@ The lab lets your agency try new technology and furniture options from multiple 
 
 > “Cannot wait to sell this broadly to teams—what a great benefit!” –Survey respondent
 
-## Test out our space as your workspace
+## Reserve space to work in our lab
 
 Be one of the first to work in the Workplace Innovation Lab. Federal agency teams and individual employees can work in the lab for an hour to weeks at a time. Enter your official federal government email address below to be alerted when our system is ready to accept reservations for February and beyond.
 
