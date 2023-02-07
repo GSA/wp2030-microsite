@@ -7,6 +7,6 @@ permalink: /offerings/innovation-lab/gallery/
 
 # Workplace Innovation Lab Gallery
 
-Click on any image to open a slideshow.
+Select an image to open a slideshow.
 
 {% gallery name="innovationlab" %}{% endgallery %}
