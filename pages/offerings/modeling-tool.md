@@ -36,9 +36,9 @@ WIFM can help you discover the potential benefits of increased telework levels i
 * Total space utilization.
 * Overall space and seat distribution.
 
-## Download WIFM
+## Request WIFM
 
-The free [WIFM tool](https://public.govdelivery.com/accounts/USGSA/signup/34664) (Excel) is available for download by federal employees.
+The WIFM tool (Excel file) is available at no charge to federal employees with official government email addresses. Email [workplace@gsa.gov](mailto:workplace@gsa.gov) to request the tool. Please allow up to three business days to receive the file.
 
 ## Learn more
 
