@@ -28,3 +28,5 @@ February 7, 2023
 - Included video of WIL
 - Updated WIL photo gallery
 
+February 17, 2023
+- Updated WIFM page to provide users instructions on how to request tool
