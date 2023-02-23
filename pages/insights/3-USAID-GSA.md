@@ -8,7 +8,7 @@ position:
 image: 
   url: /assets/img/insights-USAID-GSA.jpg
   alt: Two people having a conversation in a large, modern office building foyer
-sortorder: 4
+sortorder: 7
 permalink: /insights/usaid-gsa-consolidating-space-to-drive-cost-avoidance/
 tags: insights
 
