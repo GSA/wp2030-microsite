@@ -22,7 +22,7 @@ USGS leadership came to GSA for a solution and took part in a newly launched ser
 
 >“As an agency, we were undertaking an emergency relocation and vacating a large facility in Portland due to significant security concerns. We were required to be out of our facility by October 31, 2022,” said Gregg Schuster, USGS National Leasing Program Coordinator. “Commercial Coworking seemed to be a great option because it allowed us flexibility in where to go for office space.”
 
-![A room with high ceilings with exposed ducts and large windows on one side; two large tables with light fixtures and six chairs around each table, and stair benches wrap around the corner from one wall to the other.](/assets/img/insight-commercial-coworking-usgs-1.jpg)
+![A room with high ceilings with exposed ducts and large windows on one side; two large tables with light fixtures and six chairs around each table, and stair benches wrap around the corner from one wall to the other.](/assets/img/insight-commercial-coworking-usgs-1.jpg#wrap)
 
 What made this an effective solution for USGS was they did not have to wait three years for a new lease contract to be drawn up and there were no furniture requirements. By working through private-sector space providers, USGS was able to find safe locations near where their employees lived to reduce commute times and provide a secure space that only required employees to bring their laptops to work. At the end of the day, employees just needed to pack up the equipment they brought and clean up their workstations.
 
