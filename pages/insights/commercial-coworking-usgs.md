@@ -32,6 +32,6 @@ An advantage of Commercial Coworking, especially for USGS in this situation, is 
 
 ![A room with concrete floors and a kitchen area with subway tile; shelves hold mugs and glasses, and there are two taps at one end of a bar; a person in a green T-shirt sits on a bar stool, and there are couches with pillows on them in the foreground along with coffee tables with serving trays with hand sanitizer and potted plants.]({{ '/assets/img/insight-commercial-coworking-usgs-2.jpg' | url }})
 
->“Commercial Coworking was a quick and easy solution to meet our short-term requirements in the Portland Area,” said Schuster. “We are already in the space and using it slowly as staff get used to new schedules and commutes after coming out of remote work.”
+“Commercial Coworking was a quick and easy solution to meet our short-term requirements in the Portland Area,” said Schuster. “We are already in the space and using it slowly as staff get used to new schedules and commutes after coming out of remote work.”
 
 Another advantage of Commercial Coworking is that employees come with all the items they need for the day – laptops, office supplies and other necessary items for work, and they take those items home with them at the end of the day. 
