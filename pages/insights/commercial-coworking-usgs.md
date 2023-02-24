@@ -20,7 +20,7 @@ USGS had two issues they needed to overcome: a Cooperative Agreement with Portla
 
 USGS leadership came to GSA for a solution and took part in a newly launched service called [Commercial Coworking]({{ '/offerings/commercial-coworking/' | url}}). Available through GSA’s [Workplace 2030](http://gsa.gov/workplace) initiative, this offering provides agencies with ready-to-use office space in private-sector coworking locations in a fraction of the time it takes to acquire and prepare traditional occupancies. Through Commercial Coworking, GSA found USGS a cost-effective, convenient space solution.
 
->“As an agency, we were undertaking an emergency relocation and vacating a large facility in Portland due to significant security concerns. We were required to be out of our facility by October 31, 2022,” said Gregg Schuster, USGS National Leasing Program Coordinator. “Commercial Coworking seemed to be a great option because it allowed us flexibility in where to go for office space.”
+“As an agency, we were undertaking an emergency relocation and vacating a large facility in Portland due to significant security concerns. We were required to be out of our facility by October 31, 2022,” said Gregg Schuster, USGS National Leasing Program Coordinator. “Commercial Coworking seemed to be a great option because it allowed us flexibility in where to go for office space.”
 
 ![A room with high ceilings with exposed ducts and large windows on one side; two large tables with light fixtures and six chairs around each table, and stair benches wrap around the corner from one wall to the other.]({{ '/assets/img/insight-commercial-coworking-usgs-1.jpg' | url }}){class="wrap"}
 
