@@ -48,30 +48,24 @@ Workspace options include:
 
 [Contact our team](#get-in-touch) to discuss commercial coworking locations in your area and how you can set up an on-site visit.
 
+## View photo gallery
+
 {% gallery %}
   {% galleryItem
     src="/assets/img/offering-commercial-coworking-expansive.jpg",
     alt="An open office furnished with work tables, chairs, couches, and office supplies" %}
-      <strong>Dupont Circle at Expansive</strong>
-      <br>1201 Connecticut Ave NW
-      <br>Washington, DC 20036
   {% endgalleryItem %}
   {% galleryItem
     src="/assets/img/offering-commercial-coworking-wework.jpg",
     alt="An open office with a person descending a staircase, a person sitting on a bench working on a laptop, and two people drinking from mugs sitting in armchairs" %}
-    <strong>Wells Fargo Center at WeWork</strong>
-    <br>1700 Lincoln St
-    <br>Denver, CO 80203
   {% endgalleryItem %}
   {% galleryItem
     src="/assets/img/offering-commercial-coworking-theyard.jpg",
     alt="An open office with three working tables, a person walking through the center of the room, three people seated and working on laptops, and large windows with fall-colored foliage outside" %}
-    <strong>Eastern Market at The Yard</strong>
-    <br>700 Pennsylvania Ave SE
-    <br>Washington, DC 20003
   {% endgalleryItem %}
 {% endgallery %}
 
+[View the full gallery]({{ './gallery/' | url }})
 
 ## Commercial coworking space contract
 
@@ -89,7 +83,7 @@ The contract has very specific parameters and may not work for agencies with spa
 **The contract is not:**
 
 {% iconList %}
-  {% iconListItem "text-red", "cancel", "A long-term solution for agencies with space requirements beyond 12 months. To secure additional months of coworking space, we must recompete the task order, and an agency may be assigned to a new space managed by a different vendor." %}
+  {% iconListItem "text-red", "cancel", "A long-term solution for agencies. To accommodate groups requiring space for more than 12 months, we will recompete the task order, and agencies may be assigned to a new space managed by a different vendor." %}
   {% iconListItem "text-red", "cancel", "For exclusive use by a single agency. An agency may not be  guaranteed daily access to the same workspace." %}
   {% iconListItem "text-red", "cancel", "For classified, confidential, or sensitive work."%}
   {% iconListItem "text-red", "cancel", "Suitable for agencies needing alterations or construction for their specific mission needs." %}
