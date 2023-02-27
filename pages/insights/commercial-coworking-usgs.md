@@ -26,7 +26,7 @@ USGS leadership came to GSA for a solution and took part in a newly launched ser
 
 What made this an effective solution for USGS was they did not have to wait three years for a new lease contract to be drawn up and there were no furniture requirements. By working through private-sector space providers, USGS was able to find safe locations near where their employees lived to reduce commute times and provide a secure space that only required employees to bring their laptops to work. At the end of the day, employees just needed to pack up the equipment they brought and clean up their workstations.
 
-GSA Chief Architect Chuck Hardy explained, “We are providing flexibility in a time of great change. When agencies experience emergencies, hiring surges, or construction delays, our Commercial Coworking offering provides the short-term [turnkey](http://gsa.gov/glossary#turnkey) space they need.
+GSA Chief Architect Chuck Hardy explained, “We are providing flexibility in a time of great change. When agencies experience emergencies, hiring surges, or construction delays, our Commercial Coworking offering provides the short-term [turnkey](http://gsa.gov/glossary#turnkey) space they need.”
 
 An advantage of Commercial Coworking, especially for USGS in this situation, is that it is not a lease, it is a short-term turnkey solution for agencies using an already established [IDIQ](http://gsa.gov/glossary#IDIQ) contract until a long-term solution can be coordinated. Each vendor provides furnished workstations and private offices that can be reserved. These spaces also come with amenities like wifi, shared copiers, and designated break areas for workers.
 
@@ -35,3 +35,5 @@ An advantage of Commercial Coworking, especially for USGS in this situation, is 
 “Commercial Coworking was a quick and easy solution to meet our short-term requirements in the Portland Area,” said Schuster. “We are already in the space and using it slowly as staff get used to new schedules and commutes after coming out of remote work.”
 
 Another advantage of Commercial Coworking is that employees come with all the items they need for the day – laptops, office supplies and other necessary items for work, and they take those items home with them at the end of the day. 
+
+“So far we are pleased, but it’s too soon to really tell on its overall use as we’re juggling now four different locations for over 90 staff – so we’re still figuring things out, but suspect we’ll re-compete next year to continue while we have no office or home base,” said Schuster.
