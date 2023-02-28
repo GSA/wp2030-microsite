@@ -19,6 +19,14 @@ npm run dev
 
 Here's what's new since the site launched on January 25, 2023.
 
+February 29, 2023
+- Added 4 additional insights
+- Added photo gallery to commerical coworking offering page
+- Added crosslinks to the site
+
+February 17, 2023
+- Updated WIFM page to provide users instructions on how to request tool
+
 February 9, 2023
 - Updated WIL tour information
 
@@ -28,5 +36,4 @@ February 7, 2023
 - Included video of WIL
 - Updated WIL photo gallery
 
-February 17, 2023
-- Updated WIFM page to provide users instructions on how to request tool
+
