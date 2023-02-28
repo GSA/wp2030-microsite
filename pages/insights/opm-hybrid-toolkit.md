@@ -1,7 +1,7 @@
 ---
 layout: layouts/insight
 title: OPM's hybrid toolkit
-date: 2023-03-02
+date: 2023-02-28
 externallink: https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/
 image: 
   url: /assets/img/insights-hybrid-toolkit.jpg

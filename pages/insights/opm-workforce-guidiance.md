@@ -1,7 +1,7 @@
 ---
 layout: layouts/insight
 title: OPM shares future of the workforce guidance
-date: 2023-03-02
+date: 2023-02-28
 externallink: https://www.opm.gov/policy-data-oversight/future-of-the-workforce/
 image: 
   url: /assets/img/insights-workforce-guidiance.jpg
