@@ -7,7 +7,7 @@ position:
 image:
   url: /assets/img/insights-NRC-GSA.jpg
   alt: A modern conference room with abundant natural light
-sortorder: 5
+sortorder: 8
 permalink: /insights/nrc-gsa-space-reduction-and-cost-savings-in-new-lease/
 tags: insights
 
@@ -16,7 +16,7 @@ tags: insights
 
 The Nuclear Regulatory Commission (NRC) recently moved into completed leased space in King of Prussia, Pennsylvania. GSA was able to assist NRC in reducing their footprint by 53%, saving NRC over $1.85 million in annual rent costs.
 
-PBS and NRC partnered on a workplace engagement study that analyzed the NRC's space needs and recommended ways to operate more efficiently. This study and partnership led R3 PBS to award this efficient lease in March 2021.
+PBS and NRC partnered on a <a href="https://workplace.gsa.gov/offerings/workplace-engagements/" >workplace engagement</a> study that analyzed the NRC's space needs and recommended ways to operate more efficiently. This study and partnership led R3 PBS to award this efficient lease in March 2021.
 
 The new NRC lease is avoiding lease costs through square footage reduction and more favorable lease rates achieved by using the <a href="https://www.gsa.gov/real-estate/real-estate-services/leasing/leasing-tools" >Automated Advanced Acquisition Program</a> tools. This annual rent savings will avoid $10.5 million in lease cost over the life of the lease.
 

@@ -20,10 +20,14 @@ hero:
 
     <div class="grid-container padding-top-205">
       <div class="grid-row grid-gap">
-      {% for insight in collections.insights | sort(attribute='sortorder') %}
+      {% for insight in collections.insights | sort(attribute='data.sortorder') %}
         <div class="tablet:grid-col-4 margin-y-1 padding-bottom-6">
           <div class="flex-column">
-          <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}" aria-label="link to {{ insight.data.title}}">
+             {% if insight.data.externallink %}
+               <a class="usa-link text-no-underline" href="{{ insight.data.externallink | url }}" aria-label="link to {{ insight.data.title}}">
+            {% else %}
+              <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}" aria-label="link to {{ insight.data.title}}">
+            {% endif %}
             <img
             src="{{ insight.data.image.url | url }}"
             alt="{{insight.data.image.alt}}"
@@ -32,8 +36,19 @@ hero:
           </a>
           </div>
           <div class="flex-column font-body-md text-semibold margin-y-1">
-            <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
-              <span class="text-bold text-black">{{ insight.data.title | safe}}<span>
+            {% if insight.data.externallink %}
+               <a class="usa-link text-no-underline" href="{{ insight.data.externallink | url }}">
+            {% else %}
+              <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
+            {% endif %}
+              <span class="text-bold text-black">
+                {{ insight.data.title | safe}}
+              {% if insight.data.externallink %}
+                  <svg class="usa-icon alignmiddle" aria-hidden="true" role="img" >
+                    <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
+                  </svg>
+              {% endif %}
+              </span>
             </a>
           </div>
 
