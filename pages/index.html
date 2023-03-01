@@ -27,7 +27,6 @@ hero:
 
 <div class="grid-row grid-gap">
   {% for insight in collections.insights | sort(attribute='data.sortorder') | reverse | take(3) %}
-  {# {% for insight in (collections.insights | sort(attribute='data.sortorder')).slice(0, 3) %} #}
     <div class="tablet:grid-col-4 margin-y-3">
       <div class="flex-column">
       <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}" aria-label="link to {{ insight.data.title }}">
