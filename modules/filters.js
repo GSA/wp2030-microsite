@@ -4,6 +4,7 @@ const striptags = require("striptags");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("postDate", dateObj => DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_FULL));
+  eleventyConfig.addFilter("take", (collection, n) => collection.slice(0, n));
 
   eleventyConfig.addFilter("search", (collection) => {
     const searchIndex = elasticlunr(function () {

@@ -8,7 +8,7 @@ externallink: https://www.gsa.gov/blog/2023/02/13/the-future-of-work-starts-now
 image: 
   url: /assets/img/insights-future-work.jpg
   alt: "GSA leaders opening the Workplace Innovation Lab during a ribbon cutting ceremony."
-sortorder: 1
+sortorder: 900
 tags: insights
 
 ---

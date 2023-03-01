@@ -7,7 +7,7 @@ position: Chief Architect
 image: 
   url: /assets/img/insights-interesting.jpg
   alt: A group of people in business attire working at a modern conference table
-sortorder: 5
+sortorder: 500
 permalink: /insights/interesting-times-produce-creative-opportunities/
 tags: insights
 

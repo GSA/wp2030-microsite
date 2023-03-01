@@ -7,7 +7,7 @@ position:
 image:
   url: /assets/img/insights-NRC-GSA.jpg
   alt: A modern conference room with abundant natural light
-sortorder: 8
+sortorder: 200
 permalink: /insights/nrc-gsa-space-reduction-and-cost-savings-in-new-lease/
 tags: insights
 

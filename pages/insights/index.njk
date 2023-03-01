@@ -20,7 +20,7 @@ hero:
 
     <div class="grid-container padding-top-205">
       <div class="grid-row grid-gap">
-      {% for insight in collections.insights | sort(attribute='data.sortorder') %}
+      {% for insight in collections.insights | sort(attribute='data.sortorder') | reverse %}
         <div class="tablet:grid-col-4 margin-y-1 padding-bottom-6">
           <div class="flex-column">
              {% if insight.data.externallink %}

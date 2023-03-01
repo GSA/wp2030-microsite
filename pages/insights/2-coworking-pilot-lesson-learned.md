@@ -7,7 +7,7 @@ position: Client Communication Specialist
 image: 
   url: /assets/img/insights-lesson-learned.jpg
   alt: People with laptops at a conference table meeting with another team remotely
-sortorder: 6
+sortorder: 400
 permalink: /insights/commercial-coworking-pilot-lessons-learned/
 tags: insights
 
