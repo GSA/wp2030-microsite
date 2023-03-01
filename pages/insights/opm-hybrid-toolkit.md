@@ -1,6 +1,7 @@
 ---
 layout: layouts/insight
 title: OPM's hybrid toolkit
+description: To support agencies and employees as they begin to return to the office, the Office of Personnel Management has developed a toolkit with information to assist in this next phase and beyond.
 date: 2023-02-28
 externallink: https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/
 image: 

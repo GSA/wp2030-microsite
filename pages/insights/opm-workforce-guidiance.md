@@ -1,6 +1,7 @@
 ---
 layout: layouts/insight
 title: OPM shares future of the workforce guidance
+description: Guidance on the future of the workspace from the Office of Personnel Management
 date: 2023-02-28
 externallink: https://www.opm.gov/policy-data-oversight/future-of-the-workforce/
 image: 

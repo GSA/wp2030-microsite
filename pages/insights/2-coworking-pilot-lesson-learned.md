@@ -1,6 +1,7 @@
 ---
 layout: layouts/insight
 title: Lessons learned from commercial coworking pilot
+description: More than 30 agencies participated in a Commercial Coworking trial week to get a better understanding of GSA's coworking solutions and provide feedback to industry to help foster innovations that meet government needs.
 date: 2023-01-23
 author: Jeff Woodworth
 position: Client Communication Specialist

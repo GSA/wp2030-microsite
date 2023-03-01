@@ -2,7 +2,7 @@
 layout: layouts/offering
 title: Workplace engagement services
 tagline: Align your workplace and workforce
-description: Evaluate human, space, and technology needs holistically
+description: Evaluate human, space, and technology needs to adapt to new ways of working
 listLinkText: Read more about workplace engagement services
 permalink: /offerings/workplace-engagements/
 tags: offerings
