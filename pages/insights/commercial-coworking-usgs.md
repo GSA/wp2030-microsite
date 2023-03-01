@@ -7,7 +7,7 @@ position: Public Affairs Officer
 image:
   url: /assets/img/insight-commercial-coworking-usgs.jpg
   alt: A large foyer with a staircase from one level to another and a L-shaped blue couch with coffee table; rugs and carpeting cover part of the area, while exposed concrete floor is exposed elsewhere; a hallway leads to elevators, and another staircase leads down to an area with a green exit sign.
-sortorder: 3
+sortorder: 700
 permalink: /insights/commercial-coworking-a-solution-for-usgs/
 tags: insights
 

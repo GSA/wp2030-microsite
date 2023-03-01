@@ -7,7 +7,7 @@ position: Supervisory Communications Specialist
 image:
   url: /assets/img/insights-guest-gsa.jpg
   alt: A group of people on a stage in a panel discussion
-sortorder: 9
+sortorder: 100
 permalink: /insights/gsas-customer-collaboration-event-recap/
 tags: insights
 
