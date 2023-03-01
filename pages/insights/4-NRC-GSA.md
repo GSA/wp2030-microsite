@@ -1,6 +1,7 @@
 ---
 layout: layouts/insight
 title: NRC + GSA&#58; Space reduction and cost savings in new lease
+description: GSA was able to assist the Nuclear Regulatory Commission in reducing their footprint and saving over $1.85 million in annual rent costs.
 date: 2023-01-23
 author:
 position:
