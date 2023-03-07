@@ -1,13 +1,14 @@
 ---
 layout: layouts/insight
 title: GSA’s Workplace 2030 customer event looks at industry trends and space solutions
+description: GSA hosted a Workplace 2030 customer collaboration event and engaged federal agencies in conversations around emerging trends, tools, technology, and solutions to assist with return to office and the future of work.
 date: 2023-01-23
 author: Traci Washington
 position: Supervisory Communications Specialist
 image:
   url: /assets/img/insights-guest-gsa.jpg
   alt: A group of people on a stage in a panel discussion
-sortorder: 9
+sortorder: 100
 permalink: /insights/gsas-customer-collaboration-event-recap/
 tags: insights
 

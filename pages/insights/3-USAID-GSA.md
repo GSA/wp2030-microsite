@@ -2,13 +2,14 @@
 layout: layouts/insight
 title: USAID + GSA&#58; Consolidating space to drive cost avoidance
 subtitle:  Two-headquarter solution comes into focus for U.S. Agency for International Development
+description: A decade ago, the U.S. Agency for International Development’s 4,000 headquarters personnel were spread across seven locations. Officials collaborated with GSA workplace professionals on a modern, open office design pilot.
 date: 2023-01-23
 author:
 position:
 image: 
   url: /assets/img/insights-USAID-GSA.jpg
   alt: Two people having a conversation in a large, modern office building foyer
-sortorder: 7
+sortorder: 300
 permalink: /insights/usaid-gsa-consolidating-space-to-drive-cost-avoidance/
 tags: insights
 

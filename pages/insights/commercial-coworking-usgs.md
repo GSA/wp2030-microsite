@@ -1,13 +1,14 @@
 ---
 layout: layouts/insight
 title: 'Commercial Coworking: A Solution for USGS'
+description: Coming out of the pandemic, the U.S. Geological Survey found it challenging to return to their existing office. Through Commercial Coworking, GSA found USGS a cost-effective, convenient space solution.
 date: 2023-02-28
 author: Rich Stebbins
 position: Public Affairs Officer
 image:
   url: /assets/img/insight-commercial-coworking-usgs.jpg
   alt: A large foyer with a staircase from one level to another and a L-shaped blue couch with coffee table; rugs and carpeting cover part of the area, while exposed concrete floor is exposed elsewhere; a hallway leads to elevators, and another staircase leads down to an area with a green exit sign.
-sortorder: 3
+sortorder: 700
 permalink: /insights/commercial-coworking-a-solution-for-usgs/
 tags: insights
 

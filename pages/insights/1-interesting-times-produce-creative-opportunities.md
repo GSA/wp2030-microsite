@@ -1,13 +1,14 @@
 ---
 layout: layouts/insight
 title: Interesting times produce creative opportunities
+description: We are in transformational times. We need to use technology to help meet our needs and serve our mission. GSA's Center for Workplace Strategy is exploring the convergence of technology, conversation, and people in our Workplace Innovation Lab.
 date: 2023-01-23
 author: Chuck Hardy
 position: Chief Architect
 image: 
   url: /assets/img/insights-interesting.jpg
   alt: A group of people in business attire working at a modern conference table
-sortorder: 5
+sortorder: 500
 permalink: /insights/interesting-times-produce-creative-opportunities/
 tags: insights
 
