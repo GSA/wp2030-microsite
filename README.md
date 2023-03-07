@@ -19,6 +19,8 @@ npm run dev
 
 Here's what's new since the site launched on January 25, 2023.
 
+For additional updates, please see [release notes](https://github.com/GSA/wp2030-microsite/releases).
+
 February 29, 2023
 - Added 4 additional insights
 - Added photo gallery to commerical coworking offering page
