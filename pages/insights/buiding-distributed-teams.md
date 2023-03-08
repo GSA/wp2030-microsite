@@ -2,7 +2,7 @@
 layout: layouts/insight
 title: Tips for building distributed teams
 description: 
-date: 2023-01-21
+date: 2021-01-12
 author: GSA 18F
 position:
 externallink: https://18f.gsa.gov/2021/01/12/building-distributed-teams/
