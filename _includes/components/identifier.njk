@@ -26,7 +26,13 @@
       >
         <p class="usa-identifier__identity-domain">{{ site.identifier.domain }}</p>
         <p class="usa-identifier__identity-disclaimer">
-          An official website of the <a href="{{ site.identifier.parentAgency.href | url }}">{{ site.identifier.parentAgency.text }}</a>
+          An official website of the 
+          <a href="{{ site.identifier.parentAgency.href | url }}">
+            {{ site.identifier.parentAgency.text }}
+            <svg class="usa-icon alignmiddle" aria-hidden="true" role="img">
+              <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
+            </svg>
+          </a>
         </p>
       </section>
     </div>
@@ -40,8 +46,11 @@
         {% for link in site.identifier.links %}
           <li class="usa-identifier__required-links-item">
             <a href="{{ link.href | url }}" class="usa-identifier__required-link usa-link"
-              >{{ link.text }}</a
-            >
+              >{{ link.text }}
+              <svg class="usa-icon alignmiddle" aria-hidden="true" role="img" style="text-color:white">
+                <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
+              </svg>
+            </a>
           </li>
         {% endfor %}
       </ul>
@@ -55,7 +64,11 @@
       <div class="usa-identifier__usagov-description">
         Looking for U.S. government information and services?
       </div>
-      <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov</a>
+      <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov
+        <svg class="usa-icon alignmiddle" aria-hidden="true" role="img" style="text-color:white">
+          <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
+        </svg>
+      </a>
     </div>
   </section>
 </div>
