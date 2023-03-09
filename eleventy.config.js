@@ -19,6 +19,7 @@ module.exports = function(eleventyConfig) {
   // Add markdown-it plugins
   eleventyConfig.amendLibrary("md", md => md.use(markdownItAnchor));
   eleventyConfig.amendLibrary("md", md => md.use(markdownItAttrs));
+  eleventyConfig.amendLibrary("md", md => {md.options.typographer = true;});
 
   // Read YAML files in the _data directory
   eleventyConfig.addDataExtension("yml", contents => yaml.load(contents));
