@@ -22,11 +22,8 @@
                   usa-footer__primary-content
                 "
               >
-                <a class="usa-footer__primary-link" href="{{ link.href }}"
+                <a class="usa-footer__primary-link usa-link--external" href="{{ link.href }}"
                   >{{ link.text }}
-                  <svg class="usa-icon alignmiddle" aria-hidden="true" role="img">
-                     <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
-                  </svg>
                   </a>
               </li>
             {% endfor %}

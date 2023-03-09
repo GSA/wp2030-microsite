@@ -25,13 +25,11 @@
         aria-label="Agency description,"
       >
         <p class="usa-identifier__identity-domain">{{ site.identifier.domain }}</p>
-        <p class="usa-identifier__identity-disclaimer">
+        <p class="usa-identifier__identity-disclaimer ">
           An official website of the 
-          <a href="{{ site.identifier.parentAgency.href | url }}">
+           <a href="{{ site.identifier.parentAgency.href | url }}" class="usa-identifier__required-link usa-link usa-link--external">
             {{ site.identifier.parentAgency.text }}
-            <svg class="usa-icon alignmiddle" aria-hidden="true" role="img">
-              <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
-            </svg>
+           
           </a>
         </p>
       </section>
@@ -45,11 +43,8 @@
       <ul class="usa-identifier__required-links-list">
         {% for link in site.identifier.links %}
           <li class="usa-identifier__required-links-item">
-            <a href="{{ link.href | url }}" class="usa-identifier__required-link usa-link"
+            <a href="{{ link.href | url }}" class="usa-identifier__required-link usa-link usa-link--external"
               >{{ link.text }}
-              <svg class="usa-icon alignmiddle" aria-hidden="true" role="img" style="text-color:white">
-                <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
-              </svg>
             </a>
           </li>
         {% endfor %}
@@ -64,10 +59,7 @@
       <div class="usa-identifier__usagov-description">
         Looking for U.S. government information and services?
       </div>
-      <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov
-        <svg class="usa-icon alignmiddle" aria-hidden="true" role="img" style="text-color:white">
-          <use xlink:href="{{ '/assets/uswds/img/sprite.svg#launch' | url }}"></use>
-        </svg>
+      <a href="https://www.usa.gov/" class="usa-link usa-link--external">Visit USA.gov
       </a>
     </div>
   </section>
