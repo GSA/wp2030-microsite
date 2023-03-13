@@ -27,7 +27,7 @@ hero:
              {% if insight.data.externallink %}
                <a class="usa-link text-no-underline" href="{{ insight.data.externallink | url }}" aria-label="link to {{ insight.data.title}}">
             {% else %}
-              <a class="usa-link text-no-underline text-black" href="{{ insight.url | url }}" aria-label="link to {{ insight.data.title}}">
+              <a class="usa-link text-no-underline" href="{{ insight.url | url }}" aria-label="link to {{ insight.data.title}}">
             {% endif %}
             <img
             src="{{ insight.data.image.url | url }}"
@@ -37,8 +37,9 @@ hero:
           </a>
           </div>
           <div class="flex-column font-body-md text-semibold margin-y-1">
+      
             {% if insight.data.externallink %}
-               <a class="usa-link usa-link--external text-no-underline" href="{{ insight.data.externallink | url }}">
+               <a class="text-no-underline usa-link--external text-black" href="{{ insight.data.externallink | url }}">
             {% else %}
               <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
             {% endif %}
@@ -46,6 +47,7 @@ hero:
                 {{ insight.data.title | safe}}
               </span>
             </a>
+        
           </div>
 
           <div class="flex-column text-base font-sans-2xs ">

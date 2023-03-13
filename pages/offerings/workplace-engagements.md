@@ -31,7 +31,7 @@ Workplace engagement services include:
 
 ## How it works
 
-Sourced through a national architectural-engineering-interiors [IDIQ contract](http://gsa.gov/glossary#IDIQ) or performed by our in-house experts, these studies use a variety of methods to evaluate the workplace from multiple perspectives. Activities may include:
+Sourced through a national architectural-engineering-interiors [IDIQ contract](http://gsa.gov/glossary#IDIQ){class="usa-link--external"} or performed by our in-house experts, these studies use a variety of methods to evaluate the workplace from multiple perspectives. Activities may include:
 
 * Visioning session and 1:1 interviews.
 * Focus groups and pre-occupancy surveys.
@@ -41,4 +41,4 @@ If you’re planning to significantly reduce your space and move back into feder
 
 ## Get in touch
 
-Contact your [national customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads) or email [workplace@gsa.gov](mailto:workplace@gsa.gov).
+Contact your [national customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads){class="usa-link--external"} or email [workplace@gsa.gov](mailto:workplace@gsa.gov).
