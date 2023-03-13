@@ -45,7 +45,7 @@ hero:
       </div>
       <div class="flex-column font-body-md text-semibold margin-y-1">
         {% if insight.data.externallink %}
-          <a class="usa-link usa-link--external text-no-underline" href="{{ insight.data.externallink | url }}">
+          <a class="usa-link--external text-no-underline text-black" href="{{ insight.data.externallink | url }}">
         {% else %}
         <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
         {% endif %}
