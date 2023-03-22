@@ -29,6 +29,7 @@
     "fslightbox": "^3.3.2-2"
   },
   "overrides": {
-    "glob-parent@<5.1.2": "^5.1.2"
+    "glob-parent@<5.1.2": "^5.1.2",
+    "chokidar@<3.5.3": "^3.5.3"
   }
 }
