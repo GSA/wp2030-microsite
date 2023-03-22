@@ -50,47 +50,14 @@ Use the contract vehicle for:
 ## How it works{class="padding-bottom-2"}
 
 <ol class="usa-process-list">
-  <li class="usa-process-list__item padding-bottom-4">
-    <p class="usa-process-list__heading ">
-     Discuss your needs and goals with us.
-    </p>
-  </li>
-  <li class="usa-process-list__item padding-bottom-4">
-    <p class="usa-process-list__heading">
-      Develop your scope of work with our help.
-    </p>
-  </li>
+ {% for item in process.leverageservices %}
   <li class="usa-process-list__item">
     <p class="usa-process-list__heading">
-      We develop an independent government estimate.
+      {{item}}
     </p>
   </li>
-   <li class="usa-process-list__item">
-    <p class="usa-process-list__heading">
-      Provide us a reimbursable work authorization.
-    </p>
-  </li>
-   <li class="usa-process-list__item">
-    <p class="usa-process-list__heading">
-      We develop an independent government estimate.
-    </p>
-  </li>
-   <li class="usa-process-list__item">
-    <p class="usa-process-list__heading">
-      We issue a request for proposal to the “best qualified” AEI firm.
-    </p>
-  </li>
-   <li class="usa-process-list__item">
-    <p class="usa-process-list__heading">
-      Our contracting officer issues a task order.
-    </p>
-  </li>
-  <li class="usa-process-list__item">
-    <p class="usa-process-list__heading">
-      Project kick-off.
-    </p>
-  </li>
-</ol>
+ {% endfor %}
+ </ol>
 
 ## Get in touch
 
