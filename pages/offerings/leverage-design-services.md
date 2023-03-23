@@ -4,7 +4,7 @@ title: Leverage our collaborative design services
 tagline: Leverage our collaborative design services
 description: Get access to top industry workplace and design experts with competitive pricing through our indefinite delivery, indefinite quantity contract
 listLinkText: Read more about our AEI IDIQ 
-permalink: /offerings/leverage-design-services/
+permalink: /offerings/aei-idiq/
 tags: offerings
 sortorder: 50
 
@@ -14,7 +14,7 @@ sortorder: 50
 
 Our [IDIQ contract](http://gsa.gov/glossary#IDIQ){class="usa-link--external"} gives federal agency customers access to top industry workplace and design experts with competitive pricing. The contract offers hybrid, collaborative design services based on human-centered, sustainable, flexible, and tech-enabled strategies. We are involved at each step of the way guiding you and serving as your strategic advisor.
 
-Based on [Federal Acquisition Regulations 36](https://www.acquisition.gov/far/part-36){class="usa-link--external"} , we awarded contracts to two small business set-asides for our [New England Region](https://gsa.gov/glossary#regions){class="usa-link--external"}  — plus 12 national firms.
+Based on Part 36 of the [Federal Acquisition Regulations 36](https://www.acquisition.gov/far/part-36){class="usa-link--external"} , we awarded contracts to two small business set-asides for our [New England Region](https://gsa.gov/glossary#regions){class="usa-link--external"}  — plus 12 national firms.
 
 ## National contracts
 * AECOM
