@@ -24,7 +24,7 @@
     "striptags": "^3.2.0"
   },
   "dependencies": {
-    "@uswds/uswds": "^3.3.0",
+    "@uswds/uswds": "^3.4.1",
     "elasticlunr": "^0.9.5",
     "fslightbox": "^3.3.2-2"
   },
