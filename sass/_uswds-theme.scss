@@ -15,7 +15,9 @@ in the form $setting: value,
   // Typography
   $theme-font-role-heading: "sans",
   $theme-font-weight-semibold: 600,
-
+  
+ // header text width (version 3.4.1, this value need to be provided from the application. Otherwise, it will be default to 33%
+  $theme-header-logo-text-width: 50%,
   // Components
   $theme-banner-max-width: "desktop",
   $theme-footer-max-width: "desktop",
