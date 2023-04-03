@@ -8,7 +8,7 @@ position: PBS Commissioner
 externallink: 
 image: 
   url: /assets/img/insights-nina-headshot.jpg
-  alt: "Nina Albert's headshot"
+  alt: Official headshot of Public Buildings Service Commissioner Nina Albert with a United States flag in the background
 sortorder: 1300
 tags: insights
 
