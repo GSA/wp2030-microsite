@@ -5,6 +5,9 @@ tagline: Visit the Workplace Innovation Lab
 description: Explore design, technology, and furniture options and reserve space to work in GSA’s headquarters in Washington, DC
 listLinkText: Read more about the Workplace Innovation Lab
 permalink: /offerings/innovation-lab/
+extralinks:
+    link_text: Reserve space to work in the lab
+    link_url: "http://reservations.wil.gsa.gov/"
 tags: offerings
 sortorder: 10
 ---
