@@ -28,7 +28,10 @@ hero:
               {{ offering.data.description }}
             </p>
             <p>
-              <a class="usa-link text-no-underline" href="{{ offering.url | url }}">{{ offering.data.listLinkText }} ➔</a>
+              <a class="usa-link text-no-underline" href="{{ offering.url | url }}">{{ offering.data.listLinkText }} ➔</a><br/>
+              {% if offering.data.extralinks %}
+                <a class="usa-link text-no-underline" href="{{ offering.data.extralinks.link_url| url }}">{{ offering.data.extralinks.link_text }} ➔</a><br/>    
+              {% endif %}
             </p>
           </div>
         </div>
