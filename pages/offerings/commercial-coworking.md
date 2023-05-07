@@ -46,8 +46,6 @@ Workspace options include:
 * Reservable offices (day use; with reservations).
 * Conference space (incidental use only).
 
-[Contact our team](#get-in-touch) to discuss commercial coworking locations in your area and how you can set up an on-site visit.
-
 ## View photo gallery
 
 {% gallery %}
