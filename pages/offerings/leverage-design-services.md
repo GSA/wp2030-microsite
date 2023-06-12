@@ -3,10 +3,10 @@ layout: layouts/offering
 title: Leverage our collaborative design services
 tagline: Leverage our collaborative design services
 description: Get access to top industry workplace and design experts with competitive pricing through our indefinite delivery, indefinite quantity contract
-listLinkText: Read more about our AEI IDIQ 
+listLinkText: Read more about our AEI IDIQ
 permalink: /offerings/aei-idiq/
 tags: offerings
-sortorder: 50
+sortorder: 35
 
 ---
 
