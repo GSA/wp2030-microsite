@@ -33,16 +33,6 @@ Federal coworking spaces offer these benefits:
 * A professional working environment for remote employees who need a secure work space or meeting venue outside of their homes. 
 * Savings to taxpayers, smaller environmental footprint, and reduced operating costs for federal agencies from using  space in existing federal facilities. 
 
-## Coworking helps you deliver your mission
-
-By sharing amenities and space, federal agencies make the most effective use of government-owned real estate.
-
-Federal coworking spaces offer these benefits: 
-* Another option for your federal employees to meet, connect, and foster collaboration.
-* Move-in-ready spaces conducive to cross-government collaboration.
-* Professional working environment for remote employees who need a secure work space or meeting venue outside of their homes. 
-* Savings to taxpayers, smaller environmental footprint, and reduced operating costs for federal agencies due to use of space in existing federal facilities.
-
 ## Share your feedback
 
 Not ready to come to a site yet? We still want to hear what you think about federal coworking.
