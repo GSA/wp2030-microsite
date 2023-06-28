@@ -19,7 +19,7 @@ Federal coworking will provide you more flexibility and less friction with move-
 
 ## Participate in federal coworking
 
-We invite your agency to test sites in six cities throughout the country. The sites will be secure, fully furnished and include Wi-Fi connectivity. Register your agency to [participate in a prototype location](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM){class="usa-link--external"}. 
+We invite your agency to test sites in six cities throughout the country. The sites will be secure, fully furnished and include guest Wi-Fi connectivity. Register your agency to [participate in a prototype location](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM){class="usa-link--external"}. 
 
 ![Map of the United States, with the following cities and states highlighted: Tacoma, WA; San Francisco, CA; Denver, CO; Kansas City, MO; Chicago, IL; Philadelphia, PA; and Washington, DC (Workplace Innovation Lab)]({{ '/assets/img/federal-coworking-map.svg' | url }})
 
