@@ -6,7 +6,7 @@ description: Provide your employees with short-term access to shared commercial 
 listLinkText: Read more about commercial coworking
 permalink: /offerings/commercial-coworking/
 tags: offerings
-sortorder: 30
+sortorder: 16
 ---
 
 # Commercial coworking

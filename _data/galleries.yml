@@ -222,3 +222,13 @@ commercialcoworking:
   - src: /assets/img/gallery-commercial-coworking/Web_150DPI-20210716_WeWork_1775_Tysons_Blvd_-_McLean_-_Usci_013.jpg
     title:
     alt: Three working booths with shelves at each booth with books, pitchers, and potted plants and small, framed artwork on the columns between each booth.
+federalcoworking:
+  - src: /assets/img/gallery-federal-coworking/R6_Huddle_and_Open_Office.jpg
+    title:
+    alt: Side view of coworking space
+  - src: /assets/img/gallery-federal-coworking/R6_Open_Collaborative.jpg
+    title:
+    alt: Seating area in coworking space
+  - src: /assets/img/gallery-federal-coworking/R6_Break_Room.jpg
+    title:
+    alt: Kitchen area in coworking space
