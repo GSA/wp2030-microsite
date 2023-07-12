@@ -3,7 +3,7 @@ layout: layouts/offering
 title: Explore federal coworking
 tagline: Cowork in federal space
 description: Use space and services in a secure, government-controlled setting, try out sites, and share your input
-listLinkText: Read more about the federal coworking
+listLinkText: Read more about federal coworking
 permalink: /offerings/federal-coworking/
 tags: offerings
 sortorder: 20
