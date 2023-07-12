@@ -112,4 +112,4 @@ Model Plus for a minimum of nine people, including one private office. The 1,500
 
 ## Ready to get started?
 
-Contact the [national customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads?gsaredirect=nams) for your agency.
+Contact the [national customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads?gsaredirect=nams){class="usa-link--external"} for your agency.
