@@ -2,7 +2,7 @@
 layout: layouts/offering
 title: Fast Track Space
 tagline: Acquire professionally designed space
-description: Choose cost-effective professionally designed hybrid floor plans that can met an accelerated requirements and design schedule
+description: Choose cost-effective professionally designed hybrid floor plans that can meet an accelerated requirements and design schedule
 listLinkText: Read more about Fast Track Space
 permalink: /offerings/fast-track/
 tags: offerings
