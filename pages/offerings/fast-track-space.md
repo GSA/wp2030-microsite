@@ -34,7 +34,9 @@ Our models are not good for:
 
 ## Preview our models
 
-Model A is for a minimum of 18 people, including two private offices. The 3,500-square-foot space also includes:
+### Model A
+
+This model is for a minimum of 18 people, including two private offices. The 3,500-square-foot space also includes:
 
 * One 12-person conference room.
 * One six-person huddle room.
@@ -45,7 +47,9 @@ This model has a kitchen, storage room, and an IT room.
 
 ![A floor plan layout diagram of a small office space. In the center are two offices, a quiet room, and a huddle room. Surrounding this inner center area, there is a storage room, conference room, IT room, a kitchen, and various workspaces.]({{ '/assets/img/fast-track-model-a.jpg' | url }})
 
-Model B is for a minimum of 36 people with no private offices. The 6,500-square-foot space also includes:
+### Model B
+
+This model is for a minimum of 36 people with no private offices. The 6,500-square-foot space also includes:
 
 * Two large conference rooms.
 * Three huddle rooms for up to four people.
@@ -58,7 +62,9 @@ Model B is for a minimum of 36 people with no private offices. The 6,500-square-
 
 ![A floor plan layout diagram of an office space. In the center are several conference and focus rooms of varying sizes. Surrounding this inner center area, there is a storage room, a conference room, a break room, an IT room, and various workspaces.]({{ '/assets/img/fast-track-model-b.jpg' | url }})
 
-Model C is for a minimum of 76 people, including three private offices and 16 benching stations. The 12,500-square-foot space also includes:
+### Model C
+
+This model is for a minimum of 76 people, including three private offices and 16 benching stations. The 12,500-square-foot space also includes:
 
 * Three large conference rooms.
 * Six huddle rooms for up to five people.
@@ -72,7 +78,9 @@ Model C is for a minimum of 76 people, including three private offices and 16 be
 
 ![A floor plan layout diagram of a large office space. In the center are four huddle rooms, three offices, a copy room, a quiet room, a storage room, two conference rooms, and four focus rooms. Surrounding this inner center area, there are many workspaces, an IT room, two huddle rooms, a conference room, and a break room.]({{ '/assets/img/fast-track-model-c.jpg' | url }})
 
-Model Plus for a minimum of nine people, including one private office. The 1,500-square-foot space also includes:
+### Model Plus
+
+This model is for a minimum of nine people, including one private office. The 1,500-square-foot space also includes:
 
 * Two huddle rooms for up to five people.
 * Two meeting tables for up to four people.
