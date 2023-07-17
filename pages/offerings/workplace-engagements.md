@@ -6,7 +6,7 @@ description: Evaluate human, space, and technology needs to adapt to new ways of
 listLinkText: Read more about workplace engagement services
 permalink: /offerings/workplace-engagements/
 tags: offerings
-sortorder: 20
+sortorder: 15
 ---
 
 # Workplace engagement services

@@ -5,6 +5,7 @@ const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const customShortcodes = require("./modules/shortcodes");
 const customFilters = require("./modules/filters");
+const markdownIt = require("./modules/markdown");
 
 module.exports = function(eleventyConfig) {
   const pathPrefix = process.env.BASEURL || "/";
@@ -17,6 +18,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(embedEverythingPlugin);
 
   // Add markdown-it plugins
+  eleventyConfig.setLibrary("md", markdownIt);
   eleventyConfig.amendLibrary("md", md => md.use(markdownItAnchor));
   eleventyConfig.amendLibrary("md", md => md.use(markdownItAttrs));
   eleventyConfig.amendLibrary("md", md => {md.options.typographer = true;});

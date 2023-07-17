@@ -1,3 +1,6 @@
+const md = require("./markdown");
+const dedent = require("dedent");
+
 module.exports = (eleventyConfig) => {
   eleventyConfig.addShortcode("feature", (headingText, actionText, actionUrl, imageUrl) => {
     const filteredImageUrl = eleventyConfig.getFilter("url")(imageUrl);
@@ -69,5 +72,18 @@ module.exports = (eleventyConfig) => {
     html += `</div>`;
     html += `</div>`;
     return html;
+  });
+
+  eleventyConfig.addPairedShortcode("process", (content) => {
+    return `<ol class="usa-process-list">${content}</ol>`;
+  });
+
+  eleventyConfig.addPairedShortcode("processItem", (content, heading) => {
+    return dedent`
+      <li class="usa-process-list__item">
+        <h4 class="usa-process-list__heading">${heading}</h4>
+        <div class="margin-top-05"></div>
+        ${md.render(content)}
+      </li>`;
   });
 };
