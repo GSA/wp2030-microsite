@@ -2,13 +2,12 @@
 layout: layouts/offering
 title: Workplace Innovation Lab
 tagline: Visit the Workplace Innovation Lab
-#description: Explore design, technology, and furniture options and reserve space to work in GSA’s headquarters in Washington, D.C.
-description: The reservation application for WIL is currently down. We are actively working on resolving the issue. We apologize for the inconvenience. 
+description: Explore design, technology, and furniture options and reserve space to work in GSA’s headquarters in Washington, D.C.
 listLinkText: Read more about the Workplace Innovation Lab
 permalink: /offerings/innovation-lab/
-#extralinks:
-#    link_text: Reserve space to work in the lab
-#    link_url: "http://reservations.wil.gsa.gov/"
+extralinks:
+    link_text: Reserve space to work in the lab
+    link_url: "http://reservations.wil.gsa.gov/"
 tags: offerings
 sortorder: 10
 ---
