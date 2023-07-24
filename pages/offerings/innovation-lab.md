@@ -10,6 +10,7 @@ extralinks:
     link_url: "http://reservations.wil.gsa.gov/"
 tags: offerings
 sortorder: 10
+warningbanner: true
 ---
 
 # Workplace Innovation Lab
