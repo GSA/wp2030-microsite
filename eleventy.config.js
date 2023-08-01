@@ -39,6 +39,16 @@ module.exports = function(eleventyConfig) {
   // Custom filters
   eleventyConfig.addPlugin(customFilters);
 
+  // Convenience Shortcode to add usa-link--external class
+  // based on domain
+  // to use {% externalLinkClass someURL %}
+  eleventyConfig.addShortcode("externalLinkClass", url => {
+    let domain = new URL(url).hostname.toLowerCase();
+    if (! domain.endsWith('gsa.gov')) {
+      return "usa-link--external"
+    }
+  })
+
   return {
     pathPrefix,
     markdownTemplateEngine: "njk",

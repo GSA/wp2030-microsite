@@ -18,7 +18,7 @@
                 <h3 class="margin-0 font-sans-sm line-height-sans-2">
                   {{ link.heading }}
                 </h3>
-                <a href="{{ link.href | url }}" class="font-sans-xs usa-link--external">
+                <a href="{{ link.href | url }}" class="font-sans-xs {% externalLinkClass link.href %}">
                   {{ link.text }}
                
                 </a>

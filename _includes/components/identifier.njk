@@ -27,9 +27,8 @@
         <p class="usa-identifier__identity-domain">{{ site.identifier.domain }}</p>
         <p class="usa-identifier__identity-disclaimer ">
           An official website of the 
-           <a href="{{ site.identifier.parentAgency.href | url }}" class="usa-identifier__required-link usa-link usa-link--external">
+           <a href="{{ site.identifier.parentAgency.href | url }}" class="usa-identifier__required-link usa-link usa-link">
             {{ site.identifier.parentAgency.text }}
-           
           </a>
         </p>
       </section>
@@ -43,7 +42,7 @@
       <ul class="usa-identifier__required-links-list">
         {% for link in site.identifier.links %}
           <li class="usa-identifier__required-links-item">
-            <a href="{{ link.href | url }}" class="usa-identifier__required-link usa-link usa-link--external"
+            <a href="{{ link.href | url }}" class="usa-identifier__required-link usa-link usa-link"
               >{{ link.text }}
             </a>
           </li>
@@ -59,7 +58,8 @@
       <div class="usa-identifier__usagov-description">
         Looking for U.S. government information and services?
       </div>
-      <a href="https://www.usa.gov/" class="usa-link usa-link--external">Visit USA.gov
+      <a href="https://www.usa.gov/" class="usa-link usa-link--external">
+        Visit USA.gov
       </a>
     </div>
   </section>

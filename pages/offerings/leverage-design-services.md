@@ -12,9 +12,9 @@ sortorder: 35
 
 # Architecture, engineering, and interior design contract
 
-Our [IDIQ contract](http://gsa.gov/glossary#IDIQ){class="usa-link--external"} gives federal agency customers access to top industry workplace and design experts with competitive pricing. The contract offers hybrid, collaborative design services based on human-centered, sustainable, flexible, and tech-enabled strategies. We are involved at each step of the way guiding you and serving as your strategic advisor.
+Our [IDIQ contract](http://gsa.gov/glossary#IDIQ) gives federal agency customers access to top industry workplace and design experts with competitive pricing. The contract offers hybrid, collaborative design services based on human-centered, sustainable, flexible, and tech-enabled strategies. We are involved at each step of the way guiding you and serving as your strategic advisor.
 
-Based on Part 36 of the [Federal Acquisition Regulation](https://www.acquisition.gov/far/part-36){class="usa-link--external"} , we awarded contracts to two small business set-asides for our [New England Region](https://gsa.gov/glossary#regions){class="usa-link--external"}  — plus 12 national firms.
+Based on Part 36 of the [Federal Acquisition Regulation](https://www.acquisition.gov/far/part-36){class="usa-link--external"} , we awarded contracts to two small business set-asides for our [New England Region](https://gsa.gov/glossary#regions) — plus 12 national firms.
 
 ## National contracts
 * AECOM
@@ -61,4 +61,4 @@ Use the contract vehicle for:
 
 ## Get in touch
 
-Contact your [national customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads){class="usa-link--external"} or email [workplace@gsa.gov](mailto:workplace@gsa.gov).
+Contact your [national customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads) or email [workplace@gsa.gov](mailto:workplace@gsa.gov).

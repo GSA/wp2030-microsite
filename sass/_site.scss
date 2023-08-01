@@ -181,3 +181,10 @@ html{
         margin-bottom: 1em;
     }
 }
+
+// Fixes issue where external link icons wrapped incorrectly in Safari
+// USWDS spcefies display: inline for this class, but it can be overridden
+// in some situations 
+.usa-link--external {
+  display: inline !important;
+}
