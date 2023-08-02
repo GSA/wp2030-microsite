@@ -94,5 +94,6 @@ module.exports = (eleventyConfig) => {
     if (! domain.endsWith('gsa.gov')) {
       return "usa-link--external"
     }
+    return ""
   });
 };
