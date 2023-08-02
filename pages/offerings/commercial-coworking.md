@@ -72,7 +72,7 @@ Workspace options include:
 {% iconList %}
   {% iconListItem "text-green", "check_circle", "For agencies that need temporary access to commercial coworking spaces. Agencies occupy only the space they need to accomplish their mission and promote responsible use of taxpayer dollars." %}
   {% iconListItem "text-green", "check_circle", "A flexible, short-term agreement for federal agencies to gain access to a fully furnished, open concept, coworking office space in a commercial property." %}
-  {% iconListItem "text-green", "check_circle", "Quick procurement timelines and flexibility. No need to design, lease, <a href='https://www.gsa.gov/reference/glossary?gsaredirect=glossary#build-out' class='usa-link--external'>build-out</a>, and furnish space." %}
+  {% iconListItem "text-green", "check_circle", "Quick procurement timelines and flexibility. No need to design, lease, <a href='https://www.gsa.gov/reference/glossary?gsaredirect=glossary#build-out'>build-out</a>, and furnish space." %}
   {% iconListItem "text-green", "check_circle", "For agencies that want to test new ways of working, foster innovation, share resources, promote equity, and enhance adaptability." %}
 {% endiconList %}
 
@@ -96,7 +96,7 @@ If you are interested in using one of our commercial coworking spaces, please pr
 * Location (city or cities in the Continental U.S.).
 * Other requested amenities.
 
-We will first consider the availability of similar [turnkey](http://gsa.gov/glossary#turnkey){class="usa-link--external"} vacant federal or vacant leased space.  If similar, federally-controlled space is not available, we can work with you to create a scope of work that aligns with the contract. Your agency must issue [reimbursable work authorization](https://www.gsa.gov/reference/glossary#RWA){class="usa-link--external"} funding through [eRETA](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-rs-program/ereta-rwa-customer-portal){class="usa-link--external"} before we [request quotations](https://www.gsa.gov/reference/glossary#RFQ){class="usa-link--external"} from vendors in your delineated area.
+We will first consider the availability of similar [turnkey](http://gsa.gov/glossary#turnkey) vacant federal or vacant leased space.  If similar, federally-controlled space is not available, we can work with you to create a scope of work that aligns with the contract. Your agency must issue [reimbursable work authorization](https://www.gsa.gov/reference/glossary#RWA) funding through [eRETA](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-rs-program/ereta-rwa-customer-portal) before we [request quotations](https://www.gsa.gov/reference/glossary#RFQ) from vendors in your delineated area.
 
 Task orders may be competed among the following coworking vendors:
 
@@ -113,4 +113,4 @@ Large business:
 
 ## Get in touch
 
-Contact your [national or regional customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads?gsaredirect=nams){class="usa-link--external"}.
+Contact your [national or regional customer lead](https://www.gsa.gov/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads?gsaredirect=nams).

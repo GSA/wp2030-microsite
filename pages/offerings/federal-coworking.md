@@ -44,8 +44,8 @@ Federal coworking spaces offer these benefits:
 ## Share your feedback
 
 Not ready to come to a site yet? We still want to hear what you think about federal coworking.
-* [Provide feedback](https://feedback.gsa.gov/jfe/form/SV_cZwSUzJKCrIqzQ2){class="usa-link--external"} on your coworking needs and preferences.
-* [Request more information](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM){class="usa-link--external"} about our six federal coworking pilot sites.
+* [Provide feedback](https://feedback.gsa.gov/jfe/form/SV_cZwSUzJKCrIqzQ2) on your coworking needs and preferences.
+* [Request more information](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM) about our six federal coworking pilot sites.
 
 We look forward to hearing from you.
 
