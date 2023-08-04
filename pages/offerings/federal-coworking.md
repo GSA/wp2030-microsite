@@ -24,12 +24,12 @@ We invite your agency to test sites throughout the country. The sites will be se
 ![Map of the United States, with the following cities and states highlighted: Tacoma, WA; San Francisco, CA; Denver, CO; Kansas City, MO; Chicago, IL; Philadelphia, PA; and Washington, DC (Workplace Innovation Lab)]({{ '/assets/img/federal-coworking-map.svg' | url }})
 
 These six sites are located in:
-* **Philadelphia:** 100 S Independence Mall West, Philadelphia, PA 19106
-* **Chicago:** 230 S Dearborn St, Chicago, IL 60604
-* **Kansas City**: 2300 Main St, Kansas City, MO 64108
-* **Denver:** 1 Denver Federal Center, Main Ave, Denver, CO 80225
-* **San Francisco**: 50 United Nations Plaza, San Francisco, CA 94102
-* **Tacoma:** 1301 A St, Tacoma, WA 98402
+* **Philadelphia:** 100 S Independence Mall West, Philadelphia, PA 19106.
+* **Chicago:** 230 S Dearborn St, Chicago, IL 60604.
+* **Kansas City**: 2300 Main St, Kansas City, MO 64108.
+* **Denver:** 1 Denver Federal Center, Main Ave, Denver, CO 80225.
+* **San Francisco**: 50 United Nations Plaza, San Francisco, CA 94102.
+* **Tacoma:** 1301 A St, Tacoma, WA 98402.
 
 To be able to participate in this program, [register your agency](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM). Available space and services at each site will vary to allow us to evaluate different customer preferences.
 
