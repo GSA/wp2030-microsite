@@ -19,13 +19,21 @@ Federal coworking will provide you more flexibility and less friction with move-
 
 ## Participate in federal coworking
 
-We invite your agency to test sites in six cities throughout the country. The sites will be secure, fully furnished and include guest Wi-Fi connectivity. Register your agency to [participate in a prototype location](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM){class="usa-link--external"}.
+We invite your agency to test sites throughout the country. The sites will be secure, fully furnished, and include guest Wi-Fi connectivity.
 
 ![Map of the United States, with the following cities and states highlighted: Tacoma, WA; San Francisco, CA; Denver, CO; Kansas City, MO; Chicago, IL; Philadelphia, PA; and Washington, DC (Workplace Innovation Lab)]({{ '/assets/img/federal-coworking-map.svg' | url }})
 
-Available space and services at each site will vary to allow us to evaluate different customer preferences at each site.
+These six sites are located in:
+* **Philadelphia:** 100 S Independence Mall West, Philadelphia, PA 19106.
+* **Chicago:** 230 S Dearborn St, Chicago, IL 60604.
+* **Kansas City**: 2300 Main St, Kansas City, MO 64108.
+* **Denver:** 1 Denver Federal Center, Main Ave, Denver, CO 80225.
+* **San Francisco**: 50 United Nations Plaza, San Francisco, CA 94102.
+* **Tacoma:** 1301 A St, Tacoma, WA 98402.
 
-Your agency participation will allow us to test and assess coworking spaces’ design, technologies, and operations in a federal environment and inform our future workplace offerings.
+To be able to participate in this program, [register your agency](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM). Available space and services at each site will vary to allow us to evaluate different customer preferences.
+
+Your agency's participation will allow us to test and assess coworking spaces’ design, technologies, and operations in a federal environment and inform our future workplace offerings.
 
 Federal coworking spaces offer these benefits:
 * Another option for your federal employees to meet, connect, and foster collaboration.
@@ -36,8 +44,8 @@ Federal coworking spaces offer these benefits:
 ## Share your feedback
 
 Not ready to come to a site yet? We still want to hear what you think about federal coworking.
-* [Provide feedback](https://feedback.gsa.gov/jfe/form/SV_cZwSUzJKCrIqzQ2){class="usa-link--external"} on your coworking needs and preferences.
-* [Request more information](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM){class="usa-link--external"} about our six federal coworking pilot sites.
+* [Provide feedback](https://feedback.gsa.gov/jfe/form/SV_cZwSUzJKCrIqzQ2) on your coworking needs and preferences.
+* [Request more information](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM) about our six federal coworking pilot sites.
 
 We look forward to hearing from you.
 

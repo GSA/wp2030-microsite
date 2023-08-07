@@ -39,7 +39,7 @@ hero:
           <div class="flex-column font-body-md text-semibold margin-y-1">
       
             {% if insight.data.externallink %}
-               <a class="text-no-underline usa-link--external text-black" href="{{ insight.data.externallink | url }}">
+               <a class="text-no-underline {% externalLinkClass insight.data.externallink %} text-black" href="{{ insight.data.externallink | url }}">
             {% else %}
               <a class="usa-link text-no-underline" href="{{ insight.url | url }}">
             {% endif %}
