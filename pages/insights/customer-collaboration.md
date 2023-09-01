@@ -30,10 +30,10 @@ Nina Albert, PBS Commissioner, took the stage to present on industry trends and 
 
 A key objective of the customer collaboration event was to facilitate a two-way dialogue between GSA and federal agencies to better understand their progress, successes, and challenges as well as to gather feedback on GSA’s existing and emerging offerings which include:
 
-- [**Workplace Engagements:**](/offerings/workplace-engagements/) Suite of GSA in-house and contracted studies and activities that holistically evaluate human, space, and technology needs.
-- [**Commercial Coworking:**](/offerings/commercial-coworking/) Federal agencies use private sector coworking spaces via IDIQ.
-- [**Workplace Investment & Feasibility Modeling Tool:**](/offerings/modeling-tool/) A configurable tool comparing hybrid scenarios and the space-saving benefits of increased telework.
-- [**Workplace Innovation Lab:**](/offerings/innovation-lab/) A proving ground for the latest workplace technologies, equipment, and furniture set in a federal coworking space at GSA Headquarters.
+- [**Workplace Engagements:**]({{ "/offerings/workplace-engagements/" | url }}) Suite of GSA in-house and contracted studies and activities that holistically evaluate human, space, and technology needs.
+- [**Commercial Coworking:**]({{ "/offerings/commercial-coworking/" | url }}) Federal agencies use private sector coworking spaces via IDIQ.
+- [**Workplace Investment & Feasibility Modeling Tool:**]({{ "/offerings/modeling-tool/" | url }}) A configurable tool comparing hybrid scenarios and the space-saving benefits of increased telework.
+- [**Workplace Innovation Lab:**]({{ "/offerings/innovation-lab/" | url }}) A proving ground for the latest workplace technologies, equipment, and furniture set in a federal coworking space at GSA Headquarters.
 - **Fast Track Space:** Agencies choose from pre-packaged space designs, concept models and square footages to fit their needs.
 - **Federal Space Listing:** A web-based tool showing GSA’s vacant owned and leased space.
 - **Federal Coworking:** On-demand coworking space in existing GSA leases and owned buildings, rather than in private-sector coworking environments.
