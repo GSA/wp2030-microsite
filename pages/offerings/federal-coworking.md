@@ -31,7 +31,7 @@ These six sites are located in:
 * **San Francisco**: 50 United Nations Plaza, San Francisco, CA 94102.
 * **Tacoma:** 1301 A St, Tacoma, WA 98402.
 
-To be able to participate in this program, [register your agency](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM). Available space and services at each site will vary to allow us to evaluate different customer preferences.
+To participate in this program, please [complete this form](https://feedback.gsa.gov/jfe/form/SV_71knHUU3p09aPXM) so we can capture your needs and desired location(s). Available space and services at each site will vary to allow us to evaluate different customer preferences.
 
 Your agency's participation will allow us to test and assess coworking spaces’ design, technologies, and operations in a federal environment and inform our future workplace offerings.
 
