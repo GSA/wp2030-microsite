@@ -4,10 +4,10 @@ title:  The future of work and the path forward
 description:
 date: 2023-04-06
 author: Nina Albert
-position: PBS Commissioner
+position: Former PBS Commissioner
 externallink:
 image:
-  url: /assets/img/insights-nina-headshot.jpg
+  url: /assets/img/insight_future_work_path_forward.jpg
   alt: Official headshot of Public Buildings Service Commissioner Nina Albert with a United States flag in the background
 sortorder: 1300
 tags: insights
