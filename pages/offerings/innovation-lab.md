@@ -40,8 +40,5 @@ To request a tour of the Workplace Innovation Lab, email [WILTour1800F@gsa.gov](
 [View the full gallery]({{ './gallery/' | url }})
 
 ## Get in touch
-To learn more about the Workplace Innovation Lab, email [WIL1800F@gsa.gov](mailto:WIL1800F@gsa.gov).
+To learn more about the Workplace Innovation Lab, email [WILConcierge@gsa.gov](mailto:WILConcierge@gsa.gov).
 
-## Learn more
-
-https://www.youtube.com/watch?v=-BY-HmsUfoY
