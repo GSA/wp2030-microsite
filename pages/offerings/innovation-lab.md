@@ -37,8 +37,5 @@ To inform future federal workplace design and operation, we collect real-time da
 [View the full gallery]({{ './gallery/' | url }})
 
 ## Get in touch
-To learn more about the Workplace Innovation Lab, email [WIL1800F@gsa.gov](mailto:WIL1800F@gsa.gov).
+To learn more about the Workplace Innovation Lab, email [WILConcierge@gsa.gov](mailto:WILConcierge@gsa.gov).
 
-## Learn more
-
-https://www.youtube.com/watch?v=-BY-HmsUfoY
